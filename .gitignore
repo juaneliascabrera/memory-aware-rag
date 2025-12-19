@@ -1,0 +1,51 @@
+# --- User Specific Requests ---
+.python-version
+uv.lock
+
+# --- Python & Bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# --- Virtual Environments (uv creates .venv) ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Models & Large Files (CRÍTICO) ---
+# Ignorar cualquier modelo descargado en la carpeta models
+models/*
+data/
+# Mantener el archivo .gitkeep si decides poner uno para preservar la carpeta
+!models/.gitkeep
+
+# Ignorar archivos de modelos sueltos por si acaso
+*.gguf
+*.bin
+*.pt
+*.pth
+
+# --- Data & Benchmark ---
+# Ignoramos la carpeta de datos descargados para no llenar el repo
+data/benchmark/*
+!data/benchmark/.gitkeep
+
+# Si generas bases de datos vectoriales locales (Chroma, Faiss, etc)
+data/vectors/
+chroma_db/
+faiss_indexes/
+
+# --- Environment Variables (SEGURIDAD) ---
+# Nunca subas tu API Key de OpenAI
+.env
+.env.local
+.env.*
+
+# --- IDEs & OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

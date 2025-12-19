@@ -1,0 +1,22 @@
+[project]
+name = "longmemevalrag"
+version = "0.1.0"
+description = "Implementación de RAG local con Qwen2.5-3B y evaluación con LongMemEval"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "llama-cpp-python>=0.3.0",    # Para correr el GGUF
+    "huggingface-hub>=0.23.0",    # Descargar modelos
+    "datasets>=2.19.0",           # Descargar benchmark
+    "pandas>=2.0.0",
+    "numpy>=1.26.0",
+    "tqdm>=4.66.0",
+    "sentence-transformers>=3.0.0", # Embeddings y Reranker
+    "openai>=1.30.0",             # Para el LLM-as-a-judge (GPT-4o-mini)
+    "python-dotenv>=1.0.0",        # Para manejar tu API Key de forma segura
+    "gdown"
+]
+
+[tool.uv]
+# Esto asegura que uv gestione el entorno virtual automáticamente
+package = false
