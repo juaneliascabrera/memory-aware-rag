@@ -1,0 +1,21 @@
+{
+  "question_id": "982b5123_abs",
+  "question": "When did I book the Airbnb in Sacramento?",
+  "question_type": "abstention",
+  "retrieved_sessions": [
+    "answer_ab603dd5_abs_1",
+    "sharegpt_syHzISp_0",
+    "4f3b0353_2",
+    "ultrachat_359846",
+    "b1793bba"
+  ],
+  "retrieved_scores": [
+    14.28900263086796,
+    11.086101619262427,
+    10.871093303076407,
+    8.980211893804679,
+    8.741308862626923
+  ],
+  "method": "bm25",
+  "k": 5
+}

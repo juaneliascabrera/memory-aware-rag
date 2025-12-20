@@ -1,0 +1,21 @@
+{
+  "question_id": "86f00804",
+  "question": "What book am I currently reading?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_96b8c9ee",
+    "sharegpt_ErOTMZ3_277",
+    "137d8c6a_2",
+    "6e672b84_3",
+    "0424a40a_2"
+  ],
+  "retrieved_scores": [
+    12.610359050397603,
+    9.167643249229563,
+    9.146660192473878,
+    8.913125361663818,
+    8.50579672890025
+  ],
+  "method": "bm25",
+  "k": 5
+}

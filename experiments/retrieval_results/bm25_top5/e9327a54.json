@@ -1,0 +1,21 @@
+{
+  "question_id": "e9327a54",
+  "question": "I'm planning to revisit Orlando. I was wondering if you could remind me of that unique dessert shop with the giant milkshakes we talked about last time?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_480665",
+    "ba944cdc",
+    "c0d099e6_2",
+    "61e1ba53_2",
+    "11decc61"
+  ],
+  "retrieved_scores": [
+    45.917689041168444,
+    34.32703284163348,
+    27.606293686084438,
+    26.960488456918636,
+    26.378378213745385
+  ],
+  "method": "bm25",
+  "k": 5
+}

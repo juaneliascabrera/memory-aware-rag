@@ -1,0 +1,21 @@
+{
+  "question_id": "d52b4f67",
+  "question": "Where did I attend my cousin's wedding?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_0df6aa4b",
+    "18a06652_6",
+    "da1797c4_1",
+    "62a6d083",
+    "d31c3ec8_3"
+  ],
+  "retrieved_scores": [
+    16.74277815133424,
+    8.76694414741385,
+    8.680550304679251,
+    7.813338328468775,
+    7.56876114799881
+  ],
+  "method": "bm25",
+  "k": 5
+}

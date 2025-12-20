@@ -1,0 +1,21 @@
+{
+  "question_id": "031748ae",
+  "question": "How many engineers do I lead when I just started my new role as Senior Software Engineer? How many engineers do I lead now?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_8748f791_1",
+    "answer_8748f791_2",
+    "ultrachat_406392",
+    "5ac7f9c5_3",
+    "70764af1_4"
+  ],
+  "retrieved_scores": [
+    49.65497482137018,
+    42.780228379284075,
+    23.663934927987075,
+    21.619195167098358,
+    21.335473237038446
+  ],
+  "method": "bm25",
+  "k": 5
+}

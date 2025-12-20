@@ -1,0 +1,21 @@
+{
+  "question_id": "e3fc4d6e",
+  "question": "I wanted to follow up on our previous conversation about the fusion breakthrough at Lawrence Livermore National Laboratory. Can you remind me who is the President's Chief Advisor for Science and Technology mentioned in the article?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_sharegpt_5m7gg5F_0",
+    "d31c3ec8_1",
+    "sharegpt_TVK4gjw_24",
+    "4d261642",
+    "bec86aec"
+  ],
+  "retrieved_scores": [
+    87.8260333170228,
+    41.019265581048195,
+    36.075542070414954,
+    35.16879914281331,
+    32.93196436781875
+  ],
+  "method": "bm25",
+  "k": 5
+}

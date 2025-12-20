@@ -1,0 +1,21 @@
+{
+  "question_id": "75499fd8",
+  "question": "What breed is my dog?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_723bf11f",
+    "eb0d8dc1_7",
+    "18b0d357_1",
+    "5328c3c2_2",
+    "sharegpt_yPCVYhX_0"
+  ],
+  "retrieved_scores": [
+    14.209383675171896,
+    4.800881985010651,
+    4.62067686951331,
+    4.618136112912438,
+    4.491170336901284
+  ],
+  "method": "bm25",
+  "k": 5
+}

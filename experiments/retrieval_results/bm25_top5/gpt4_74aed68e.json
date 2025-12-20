@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_74aed68e",
+  "question": "How many days passed between the day I replaced my spark plugs and the day I participated in the Turbocharged Tuesdays auto racking event?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_aed8cf17_2",
+    "answer_aed8cf17_1",
+    "318048af_2",
+    "470f29c0_1",
+    "25b3e36c_2"
+  ],
+  "retrieved_scores": [
+    43.76987382954029,
+    37.926505957627576,
+    23.697684693586098,
+    20.40195913893232,
+    20.33606125435894
+  ],
+  "method": "bm25",
+  "k": 5
+}

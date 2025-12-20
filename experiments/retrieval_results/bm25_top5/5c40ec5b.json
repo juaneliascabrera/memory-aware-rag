@@ -1,0 +1,21 @@
+{
+  "question_id": "5c40ec5b",
+  "question": "How many times have I met up with Alex from Germany?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_1cb52d0a_2",
+    "answer_1cb52d0a_1",
+    "be050ab3_2",
+    "a200b713_3",
+    "5560bdcc"
+  ],
+  "retrieved_scores": [
+    24.173638492029287,
+    21.18065031511942,
+    14.623713470855023,
+    12.06568941710965,
+    11.994008776719863
+  ],
+  "method": "bm25",
+  "k": 5
+}

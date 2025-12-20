@@ -1,0 +1,21 @@
+{
+  "question_id": "10d9b85a",
+  "question": "How many days did I spend attending workshops, lectures, and conferences in April?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "c51583cd_3",
+    "84889496_1",
+    "answer_e0585cb5_2",
+    "aa6afba8",
+    "d576152e_1"
+  ],
+  "retrieved_scores": [
+    15.264854488860214,
+    14.164272151016961,
+    12.137308351938042,
+    10.818607660421325,
+    10.541537521825276
+  ],
+  "method": "bm25",
+  "k": 5
+}

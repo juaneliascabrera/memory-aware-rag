@@ -1,0 +1,21 @@
+{
+  "question_id": "001be529",
+  "question": "How long did I wait for the decision on my asylum application?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_530960c1",
+    "0f71db75_1",
+    "9becef17_3",
+    "a244d459",
+    "ultrachat_470904"
+  ],
+  "retrieved_scores": [
+    19.826144405255953,
+    13.540233296165937,
+    12.618462045351906,
+    12.573320719801304,
+    11.690535665012508
+  ],
+  "method": "bm25",
+  "k": 5
+}

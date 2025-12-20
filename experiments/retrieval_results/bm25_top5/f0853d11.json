@@ -1,0 +1,21 @@
+{
+  "question_id": "f0853d11",
+  "question": "How many days had passed between the 'Walk for Hunger' event and the 'Coastal Cleanup' event?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_932ea3bf_2",
+    "answer_932ea3bf_1",
+    "bd8708e2_2",
+    "ultrachat_325202",
+    "sharegpt_9upOSlE_27"
+  ],
+  "retrieved_scores": [
+    29.690825186395735,
+    29.429789723121768,
+    20.649679225456712,
+    16.522597543440334,
+    15.766786208873448
+  ],
+  "method": "bm25",
+  "k": 5
+}

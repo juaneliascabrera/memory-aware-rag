@@ -1,0 +1,21 @@
+{
+  "question_id": "577d4d32",
+  "question": "What time do I stop checking work emails and messages?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_0dd4d99a",
+    "6e2cca63_2",
+    "88925167_1",
+    "ultrachat_342034",
+    "sharegpt_1ByFFwm_0"
+  ],
+  "retrieved_scores": [
+    13.448518163119967,
+    13.367465025936092,
+    10.454249755250625,
+    10.207668802659025,
+    9.242561444687924
+  ],
+  "method": "bm25",
+  "k": 5
+}

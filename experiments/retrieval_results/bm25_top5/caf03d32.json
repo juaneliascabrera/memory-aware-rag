@@ -1,0 +1,21 @@
+{
+  "question_id": "caf03d32",
+  "question": "I've been struggling with my slow cooker recipes. Any advice on getting better results?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "answer_2fc6aabb",
+    "ec806228",
+    "a52e072b",
+    "6b137bce_4",
+    "4b1af06f_1"
+  ],
+  "retrieved_scores": [
+    26.847561132091844,
+    18.88637363955297,
+    15.6715445781885,
+    15.462940803486275,
+    14.967424391777689
+  ],
+  "method": "bm25",
+  "k": 5
+}

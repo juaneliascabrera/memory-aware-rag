@@ -1,0 +1,21 @@
+{
+  "question_id": "1cea1afa",
+  "question": "How many Instagram followers do I currently have?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_79c395a9_2",
+    "answer_79c395a9_1",
+    "7af38385_1",
+    "52d46b4a_1",
+    "602ad002_1"
+  ],
+  "retrieved_scores": [
+    16.04465451147052,
+    15.354313456057481,
+    11.06049324769323,
+    9.30146573952874,
+    8.515584709309433
+  ],
+  "method": "bm25",
+  "k": 5
+}

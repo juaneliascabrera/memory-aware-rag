@@ -1,0 +1,21 @@
+{
+  "question_id": "bbf86515",
+  "question": "How many days before the 'Rack Fest' did I participate in the 'Turbocharged Tuesdays' event?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_b3763b6b_1",
+    "answer_b3763b6b_2",
+    "75b98d2a_1",
+    "33d0e4b3_2",
+    "592cb8d2"
+  ],
+  "retrieved_scores": [
+    27.982844670433792,
+    23.05758836888327,
+    14.893401737209018,
+    14.130390452374154,
+    13.51115176251799
+  ],
+  "method": "bm25",
+  "k": 5
+}

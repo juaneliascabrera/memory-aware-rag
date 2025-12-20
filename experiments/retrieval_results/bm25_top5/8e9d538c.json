@@ -1,0 +1,21 @@
+{
+  "question_id": "8e9d538c",
+  "question": "How many skeins of worsted weight yarn did I find in my stash?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_7bdcbd23",
+    "ultrachat_26072",
+    "sharegpt_KtWBRv1_4",
+    "ultrachat_549592",
+    "3cdad629_1"
+  ],
+  "retrieved_scores": [
+    38.17708668131865,
+    10.22426056347957,
+    10.091818102556086,
+    9.99969358940179,
+    9.529895483150352
+  ],
+  "method": "bm25",
+  "k": 5
+}

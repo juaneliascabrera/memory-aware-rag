@@ -1,0 +1,21 @@
+{
+  "question_id": "f685340e_abs",
+  "question": "How often do I play table tennis with my friends at the local park?",
+  "question_type": "abstention",
+  "retrieved_sessions": [
+    "answer_25df025b_abs_1",
+    "answer_25df025b_abs_2",
+    "6b895848_1",
+    "bc6c5757_2",
+    "f8e8d445_1"
+  ],
+  "retrieved_scores": [
+    26.12281188150358,
+    24.836272573998933,
+    16.193938037575645,
+    16.131809306099715,
+    14.271355623796671
+  ],
+  "method": "bm25",
+  "k": 5
+}

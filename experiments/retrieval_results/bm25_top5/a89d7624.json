@@ -1,0 +1,21 @@
+{
+  "question_id": "a89d7624",
+  "question": "I'm planning a trip to Denver soon. Any suggestions on what to do there?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "a479a7d6_4",
+    "answer_8f15ac24",
+    "02f70006_1",
+    "39a056ae",
+    "99f2f5b1_1"
+  ],
+  "retrieved_scores": [
+    23.444594438371166,
+    23.33158829150169,
+    22.108554751248473,
+    21.157241715019165,
+    19.51384415110747
+  ],
+  "method": "bm25",
+  "k": 5
+}

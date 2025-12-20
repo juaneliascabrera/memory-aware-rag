@@ -1,0 +1,21 @@
+{
+  "question_id": "bc149d6b",
+  "question": "What is the total weight of the new feed I purchased in the past two months?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_92147866_1",
+    "7211c69e",
+    "sharegpt_bmEgv3O_12",
+    "answer_92147866_2",
+    "ultrachat_13563"
+  ],
+  "retrieved_scores": [
+    30.26069265274323,
+    19.791820580407002,
+    18.705475751850187,
+    18.15400190497848,
+    17.966107404649186
+  ],
+  "method": "bm25",
+  "k": 5
+}

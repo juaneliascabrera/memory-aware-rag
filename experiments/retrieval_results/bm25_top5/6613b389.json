@@ -1,0 +1,21 @@
+{
+  "question_id": "6613b389",
+  "question": "How many months before my anniversary did Rachel get engaged?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_aaf71ce2_2",
+    "answer_aaf71ce2_3",
+    "f1cc1ddb_1",
+    "e3d8da67",
+    "5eef2132"
+  ],
+  "retrieved_scores": [
+    16.5075382132105,
+    14.20228707970572,
+    10.47010650957059,
+    9.136391859981334,
+    7.356070617043985
+  ],
+  "method": "bm25",
+  "k": 5
+}

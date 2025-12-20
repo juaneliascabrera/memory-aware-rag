@@ -1,0 +1,21 @@
+{
+  "question_id": "36b9f61e",
+  "question": "What is the total amount I spent on luxury items in the past few months?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_ef74281f_1",
+    "answer_ef74281f_2",
+    "answer_ef74281f_3",
+    "5829ab38",
+    "3159942d_2"
+  ],
+  "retrieved_scores": [
+    33.502234639649274,
+    28.612254593190226,
+    23.79236594412122,
+    17.720848622913444,
+    16.80109204632312
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_4929293b",
+  "question": "What was the the life event of one of my relatives that I participated in a week ago?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "sharegpt_rqvR1Ep_0",
+    "sharegpt_KFhIUCO_0",
+    "cceffff7",
+    "c0dbabb8",
+    "11d959b3_1"
+  ],
+  "retrieved_scores": [
+    23.27182454540246,
+    21.55582434016412,
+    20.637912220285127,
+    20.425031741021883,
+    20.207532363121377
+  ],
+  "method": "bm25",
+  "k": 5
+}

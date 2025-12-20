@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_2d58bcd6",
+  "question": "Which book did I finish reading first, 'The Hate U Give' or 'The Nightingale'?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_3e11e0ae_1",
+    "answer_3e11e0ae_2",
+    "0bd0a01c",
+    "1b205d70_1",
+    "sharegpt_DvZqBYf_93"
+  ],
+  "retrieved_scores": [
+    33.80233592723147,
+    25.578074599178418,
+    16.86237215325378,
+    12.984456564654115,
+    12.828473937595017
+  ],
+  "method": "bm25",
+  "k": 5
+}

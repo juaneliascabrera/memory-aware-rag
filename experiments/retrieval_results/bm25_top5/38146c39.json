@@ -1,0 +1,21 @@
+{
+  "question_id": "38146c39",
+  "question": "I've been feeling like my chocolate chip cookies need something extra. Any advice?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "8064b6ca",
+    "5263736d_1",
+    "e5b1bc37",
+    "909d57ca_2",
+    "15ed03f0_1"
+  ],
+  "retrieved_scores": [
+    14.932353339248033,
+    14.889262154411243,
+    14.67465320418948,
+    14.153542927088486,
+    14.11917176782439
+  ],
+  "method": "bm25",
+  "k": 5
+}

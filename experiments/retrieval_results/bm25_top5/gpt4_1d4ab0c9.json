@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_1d4ab0c9",
+  "question": "How many days passed between the day I started watering my herb garden and the day I harvested my first batch of fresh herbs?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_febde667_2",
+    "answer_febde667_1",
+    "ultrachat_125013",
+    "feb9e0c3_2",
+    "ab855b34_2"
+  ],
+  "retrieved_scores": [
+    51.003507870978446,
+    41.38398030850357,
+    23.70902508791852,
+    23.396465987142975,
+    21.735169897068193
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_a56e767c",
+  "question": "How many movie festivals that I attended?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_cf9e3940_3",
+    "88c8df0e_3",
+    "answer_cf9e3940_1",
+    "7a819e6f_1",
+    "f56e6152_1"
+  ],
+  "retrieved_scores": [
+    11.525667715413391,
+    9.649772562308897,
+    8.146373504839662,
+    7.5726582103167885,
+    6.102579704496285
+  ],
+  "method": "bm25",
+  "k": 5
+}

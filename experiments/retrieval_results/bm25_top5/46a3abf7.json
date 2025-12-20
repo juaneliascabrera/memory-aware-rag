@@ -1,0 +1,21 @@
+{
+  "question_id": "46a3abf7",
+  "question": "How many tanks do I currently have, including the one I set up for my friend's kid?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_c65042d7_3",
+    "ultrachat_234796",
+    "28eb86ab",
+    "be133e38_1",
+    "2917b130_1"
+  ],
+  "retrieved_scores": [
+    23.32468339693499,
+    20.840635190677638,
+    20.224982253162807,
+    19.943201399226698,
+    19.842583946578383
+  ],
+  "method": "bm25",
+  "k": 5
+}

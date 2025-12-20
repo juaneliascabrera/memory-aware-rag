@@ -1,0 +1,21 @@
+{
+  "question_id": "681a1674",
+  "question": "How many Marvel movies did I re-watch?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_3be95d43_2",
+    "answer_3be95d43_1",
+    "7d33fcb4_2",
+    "ultrachat_121267",
+    "50e8f2b5_1"
+  ],
+  "retrieved_scores": [
+    18.595272720230994,
+    14.481185332438988,
+    8.370070778979334,
+    8.058285691431129,
+    7.327457084338966
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "ba61f0b9",
+  "question": "How many women are on the team led by my former manager Rachel?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_f377cda7_1",
+    "answer_f377cda7_2",
+    "sharegpt_s8Opwwu_0",
+    "85846900_6",
+    "495cf518_1"
+  ],
+  "retrieved_scores": [
+    32.45505067141336,
+    27.794101799131028,
+    14.048826548749473,
+    12.433010405362198,
+    12.193977098328387
+  ],
+  "method": "bm25",
+  "k": 5
+}

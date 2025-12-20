@@ -1,0 +1,21 @@
+{
+  "question_id": "e8a79c70",
+  "question": "I was going through our previous conversation about making a classic French omelette, and I wanted to confirm - how many eggs did you say we need for the recipe?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_13075",
+    "sharegpt_ha8kUEr_0",
+    "c0d099e6_2",
+    "87252d80_2",
+    "89aed484_2"
+  ],
+  "retrieved_scores": [
+    32.96382740989458,
+    29.81390636027641,
+    28.369102527919292,
+    26.896267126370695,
+    26.454143231697444
+  ],
+  "method": "bm25",
+  "k": 5
+}

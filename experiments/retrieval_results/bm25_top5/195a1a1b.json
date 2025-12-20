@@ -1,0 +1,21 @@
+{
+  "question_id": "195a1a1b",
+  "question": "Can you suggest some activities that I can do in the evening?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "answer_6dc4305e",
+    "9f12daa1_1",
+    "1b71c896_2",
+    "af0ab6ab",
+    "ultrachat_461016"
+  ],
+  "retrieved_scores": [
+    18.38153968860218,
+    17.445074054075995,
+    17.270950824322526,
+    17.150238314336907,
+    16.888572749915355
+  ],
+  "method": "bm25",
+  "k": 5
+}

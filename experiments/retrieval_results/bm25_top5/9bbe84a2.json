@@ -1,0 +1,21 @@
+{
+  "question_id": "9bbe84a2",
+  "question": "What was my previous goal for my Apex Legends level before I updated my goal?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_c6a0c6c2_2",
+    "answer_c6a0c6c2_1",
+    "sharegpt_JtVDTm4_0",
+    "sharegpt_7Iyj4aa_9",
+    "a0f8468c_2"
+  ],
+  "retrieved_scores": [
+    28.31720601712911,
+    23.766035781197644,
+    13.96478108265098,
+    13.525805772684167,
+    12.813288361074807
+  ],
+  "method": "bm25",
+  "k": 5
+}

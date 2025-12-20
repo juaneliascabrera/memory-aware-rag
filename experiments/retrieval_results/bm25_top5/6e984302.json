@@ -1,0 +1,21 @@
+{
+  "question_id": "6e984302",
+  "question": "I mentioned an investment for a competition four weeks ago? What did I buy?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "7285299a_8",
+    "answer_88841f27_1",
+    "c9dc9158_1",
+    "3535dbf0_4",
+    "c03fc56c_1"
+  ],
+  "retrieved_scores": [
+    15.87676790415078,
+    14.772684540352378,
+    14.203490585071368,
+    13.411111340525773,
+    13.257901770379824
+  ],
+  "method": "bm25",
+  "k": 5
+}

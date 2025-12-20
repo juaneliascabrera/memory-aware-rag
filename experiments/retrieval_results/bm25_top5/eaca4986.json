@@ -1,0 +1,21 @@
+{
+  "question_id": "eaca4986",
+  "question": "I'm looking back at our previous conversation where you created two sad songs for me. Can you remind me what was the chord progression for the chorus in the second song?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_sharegpt_SS141vi_0",
+    "931c521e_1",
+    "sharegpt_NelPQLT_0",
+    "ultrachat_311235",
+    "7bc2c7a3_1"
+  ],
+  "retrieved_scores": [
+    43.41049097064055,
+    34.54152765857343,
+    31.096884180968832,
+    30.01509329709332,
+    29.579727982427386
+  ],
+  "method": "bm25",
+  "k": 5
+}

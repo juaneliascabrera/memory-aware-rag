@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_4cd9eba1",
+  "question": "How many weeks have I been accepted into the exchange program when I started attending the pre-departure orientation sessions?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_5fcca8bc_1",
+    "answer_5fcca8bc_2",
+    "2ef53f61_4",
+    "1b576f6e_2",
+    "456860e7_2"
+  ],
+  "retrieved_scores": [
+    33.42938652581767,
+    33.29861081225371,
+    18.32824401283452,
+    18.13275103467337,
+    17.37767146119914
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "c6853660",
+  "question": "Did I mostly recently increase or decrease the limit on the number of cups of coffee in the morning?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_626e93c4_2",
+    "answer_626e93c4_1",
+    "6ed1c85e",
+    "33994682_3",
+    "a4863bcb_2"
+  ],
+  "retrieved_scores": [
+    33.95513560012187,
+    25.700097153306256,
+    25.50867731553618,
+    24.97131054487917,
+    21.888493018518357
+  ],
+  "method": "bm25",
+  "k": 5
+}

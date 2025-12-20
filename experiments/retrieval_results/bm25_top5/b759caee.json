@@ -1,0 +1,21 @@
+{
+  "question_id": "b759caee",
+  "question": "I was looking back at our previous conversation about buying unique engagement rings directly from designers. Can you remind me of the Instagram handle of the UK-based designer who works with unusual gemstones?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_sharegpt_2BSXlAr_0",
+    "d3575920",
+    "bab41bb6_5",
+    "b41aae7f_1",
+    "sharegpt_6gBVFdg_1"
+  ],
+  "retrieved_scores": [
+    71.96492048861185,
+    35.77796720975803,
+    28.651929224226908,
+    27.160930855426763,
+    26.598523268281166
+  ],
+  "method": "bm25",
+  "k": 5
+}

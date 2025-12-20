@@ -1,0 +1,21 @@
+{
+  "question_id": "6a1eabeb",
+  "question": "What was my personal best time in the charity 5K run?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_a25d4a91_2",
+    "answer_a25d4a91_1",
+    "4aaf678f_3",
+    "59a6150d_1",
+    "9f80607d"
+  ],
+  "retrieved_scores": [
+    20.74469490070192,
+    16.32760557063343,
+    11.253198634248108,
+    9.639129840030794,
+    9.621301495013508
+  ],
+  "method": "bm25",
+  "k": 5
+}

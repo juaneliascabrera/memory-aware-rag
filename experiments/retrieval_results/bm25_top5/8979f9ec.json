@@ -1,0 +1,21 @@
+{
+  "question_id": "8979f9ec",
+  "question": "What is the total number of lunch meals I got from the chicken fajitas and lentil soup?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_35e36341_2",
+    "answer_35e36341_1",
+    "1064ed80_2",
+    "91c71874_1",
+    "bcc9382a_2"
+  ],
+  "retrieved_scores": [
+    33.66651402927063,
+    27.49252257031865,
+    21.654109534813514,
+    19.66886505649771,
+    18.952888045077096
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "d851d5ba",
+  "question": "How much money did I raise for charity in total?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_5cdf9bd2_1",
+    "answer_5cdf9bd2_2",
+    "answer_5cdf9bd2_3",
+    "answer_5cdf9bd2_4",
+    "sharegpt_dxirwR4_25"
+  ],
+  "retrieved_scores": [
+    18.54065151321894,
+    18.264327693269617,
+    16.026510619391754,
+    15.86738643195598,
+    10.14982132010811
+  ],
+  "method": "bm25",
+  "k": 5
+}

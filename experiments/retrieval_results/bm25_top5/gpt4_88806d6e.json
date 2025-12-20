@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_88806d6e",
+  "question": "Who did I meet first, Mark and Sarah or Tom?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_e60a93ff_1",
+    "ultrachat_562852",
+    "answer_e60a93ff_2",
+    "20b1b65f_1",
+    "ultrachat_258611"
+  ],
+  "retrieved_scores": [
+    18.81290937487341,
+    15.862737395075168,
+    13.733216819312387,
+    9.630487137756845,
+    8.46519330832775
+  ],
+  "method": "bm25",
+  "k": 5
+}

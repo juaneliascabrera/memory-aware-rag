@@ -1,0 +1,21 @@
+{
+  "question_id": "6c49646a",
+  "question": "What is the total distance I covered in my four road trips?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_cc1ced21_2",
+    "answer_cc1ced21_1",
+    "sharegpt_1X61wv2_7",
+    "d4380d3f",
+    "9f220c66_1"
+  ],
+  "retrieved_scores": [
+    22.095966731112316,
+    20.48728644062472,
+    12.388847987969728,
+    11.834273567971612,
+    11.651235944472864
+  ],
+  "method": "bm25",
+  "k": 5
+}

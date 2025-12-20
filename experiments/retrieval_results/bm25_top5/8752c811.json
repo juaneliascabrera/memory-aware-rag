@@ -1,0 +1,21 @@
+{
+  "question_id": "8752c811",
+  "question": "I remember you provided a list of 100 prompt parameters that I can specify to influence your output. Can you remind me what was the 27th parameter on that list?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_sharegpt_6pWK9yx_0",
+    "d0a41222_1",
+    "5c6a5b7c_1",
+    "06b5b860",
+    "57ea5a94"
+  ],
+  "retrieved_scores": [
+    46.17720741439665,
+    36.188817983874394,
+    33.06771365633902,
+    31.176802837196753,
+    30.770635288457424
+  ],
+  "method": "bm25",
+  "k": 5
+}

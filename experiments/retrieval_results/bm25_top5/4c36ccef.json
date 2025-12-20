@@ -1,0 +1,21 @@
+{
+  "question_id": "4c36ccef",
+  "question": "Can you remind me of the name of the romantic Italian restaurant in Rome you recommended for dinner?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_448704",
+    "1ba83815_4",
+    "3dc8ba5f_2",
+    "sharegpt_m8F4NxL_0",
+    "5fc83435_2"
+  ],
+  "retrieved_scores": [
+    47.68888404372223,
+    24.931653134806847,
+    24.708355144762685,
+    21.615646362588716,
+    20.84083516979949
+  ],
+  "method": "bm25",
+  "k": 5
+}

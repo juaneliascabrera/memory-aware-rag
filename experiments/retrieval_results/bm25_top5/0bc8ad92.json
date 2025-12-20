@@ -1,0 +1,21 @@
+{
+  "question_id": "0bc8ad92",
+  "question": "How many months have passed since I last visited a museum with a friend?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_f4ea84fb_3",
+    "d3cc5bdc_1",
+    "answer_f4ea84fb_1",
+    "cc36cd3e",
+    "0868982f_1"
+  ],
+  "retrieved_scores": [
+    23.41072990371556,
+    15.680860424300842,
+    15.504557678493374,
+    14.346954417511999,
+    14.266175105888777
+  ],
+  "method": "bm25",
+  "k": 5
+}

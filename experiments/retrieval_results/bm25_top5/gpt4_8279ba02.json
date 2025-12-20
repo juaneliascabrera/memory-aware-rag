@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_8279ba02",
+  "question": "How many days ago did I buy a smoker?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_56521e65_1",
+    "86c5d31d",
+    "85f19a30_1",
+    "ultrachat_78027",
+    "b909542d_1"
+  ],
+  "retrieved_scores": [
+    11.50106717149257,
+    10.803169386686166,
+    10.335574822432948,
+    8.205818173930483,
+    8.123940253487765
+  ],
+  "method": "bm25",
+  "k": 5
+}

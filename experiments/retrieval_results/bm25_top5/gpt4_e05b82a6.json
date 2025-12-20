@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_e05b82a6",
+  "question": "How many times did I ride rollercoasters across all the events I attended from July to October?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_6350aa4f_4",
+    "answer_6350aa4f_1",
+    "b405d3d8_1",
+    "88e01130_1",
+    "answer_6350aa4f_2"
+  ],
+  "retrieved_scores": [
+    22.782522385124878,
+    22.621295872710608,
+    18.011082674269012,
+    17.416996014768422,
+    17.01856065812384
+  ],
+  "method": "bm25",
+  "k": 5
+}

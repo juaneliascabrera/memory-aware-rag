@@ -1,0 +1,21 @@
+{
+  "question_id": "f9e8c073",
+  "question": "How many sessions of the bereavement support group did I attend?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_b191df5b_2",
+    "answer_b191df5b_1",
+    "ultrachat_88473",
+    "22db3cc3_1",
+    "50b32eed_2"
+  ],
+  "retrieved_scores": [
+    22.21960965412102,
+    21.3493222886853,
+    13.411998517404331,
+    12.402794962572026,
+    11.300477259548005
+  ],
+  "method": "bm25",
+  "k": 5
+}

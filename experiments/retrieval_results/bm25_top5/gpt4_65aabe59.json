@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_65aabe59",
+  "question": "Which device did I set up first, the smart thermostat or the mesh network system?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "6a7e3aec",
+    "answer_30dfe889_1",
+    "answer_30dfe889_2",
+    "ultrachat_190669",
+    "77b8fcd9_1"
+  ],
+  "retrieved_scores": [
+    30.630721910929022,
+    20.53845930056584,
+    20.156143934184453,
+    15.364550414703297,
+    13.95235747164631
+  ],
+  "method": "bm25",
+  "k": 5
+}

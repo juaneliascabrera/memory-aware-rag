@@ -1,0 +1,21 @@
+{
+  "question_id": "5831f84d",
+  "question": "How many Crash Course videos have I watched in the past few weeks?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_8d63a897_1",
+    "answer_8d63a897_2",
+    "7a88956e",
+    "2b1f4207",
+    "ef84b994_abs_2"
+  ],
+  "retrieved_scores": [
+    26.942346952148483,
+    23.953027814003267,
+    12.707205920658172,
+    12.405543314252258,
+    11.972530507568024
+  ],
+  "method": "bm25",
+  "k": 5
+}

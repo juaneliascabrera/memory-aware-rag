@@ -1,0 +1,21 @@
+{
+  "question_id": "aae3761f",
+  "question": "How many hours in total did I spend driving to my three road trip destinations combined?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_526354c8_2",
+    "answer_526354c8_1",
+    "b192ae00_2",
+    "ultrachat_266173",
+    "sharegpt_8I9vH7n_7"
+  ],
+  "retrieved_scores": [
+    26.82980773608319,
+    22.59491856584467,
+    18.644497809725536,
+    13.92637053750391,
+    13.854949927930068
+  ],
+  "method": "bm25",
+  "k": 5
+}

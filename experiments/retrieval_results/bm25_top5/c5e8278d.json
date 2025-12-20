@@ -1,0 +1,21 @@
+{
+  "question_id": "c5e8278d",
+  "question": "What was my last name before I changed it?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_f6168136",
+    "aaf71ce2_2",
+    "89b1028d_1",
+    "64767b7f",
+    "f58317c6"
+  ],
+  "retrieved_scores": [
+    18.865919592847433,
+    11.424026579874752,
+    9.779620146324621,
+    9.709927992480338,
+    9.47110733846382
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "3fdac837",
+  "question": "What is the total number of days I spent in Japan and Chicago?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_419d21d5_2",
+    "92b06116_1",
+    "ultrachat_526748",
+    "answer_419d21d5_1",
+    "c85ef24e_1"
+  ],
+  "retrieved_scores": [
+    20.80751272267468,
+    18.306571117928915,
+    14.95227872781825,
+    14.496801298811079,
+    14.271940122123349
+  ],
+  "method": "bm25",
+  "k": 5
+}

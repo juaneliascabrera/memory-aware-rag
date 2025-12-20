@@ -1,0 +1,21 @@
+{
+  "question_id": "b320f3f8",
+  "question": "What type of action figure did I buy from a thrift store?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_5cc9b056",
+    "aae4411b_2",
+    "240d7361_1",
+    "ultrachat_562554",
+    "40628271_1"
+  ],
+  "retrieved_scores": [
+    22.874987407057265,
+    14.790229918381513,
+    12.63068886849819,
+    12.52721487574178,
+    11.85197245112681
+  ],
+  "method": "bm25",
+  "k": 5
+}

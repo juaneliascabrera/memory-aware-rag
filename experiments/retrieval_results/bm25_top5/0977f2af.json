@@ -1,0 +1,21 @@
+{
+  "question_id": "0977f2af",
+  "question": "What new kitchen gadget did I invest in before getting the Air Fryer?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_3bf5b73b_2",
+    "ultrachat_554962",
+    "b1d9eb66_4",
+    "f115a3db_1",
+    "b24eddd9_1"
+  ],
+  "retrieved_scores": [
+    17.43584704303285,
+    13.608623837769292,
+    13.415060617812554,
+    12.535199768178579,
+    12.367263635134975
+  ],
+  "method": "bm25",
+  "k": 5
+}

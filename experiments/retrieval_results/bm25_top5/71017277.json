@@ -1,0 +1,21 @@
+{
+  "question_id": "71017277",
+  "question": "I received a piece of jewelry last Saturday from whom?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "5854eebc_2",
+    "answer_0b4a8adc_1",
+    "85a1be56_2",
+    "e5b86922_1",
+    "976ca0d9"
+  ],
+  "retrieved_scores": [
+    13.536608281505783,
+    13.174927794008113,
+    12.904408479795048,
+    12.247015932501025,
+    10.680579254562963
+  ],
+  "method": "bm25",
+  "k": 5
+}

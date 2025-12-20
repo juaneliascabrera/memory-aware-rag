@@ -1,0 +1,21 @@
+{
+  "question_id": "945e3d21",
+  "question": "How often do I attend yoga classes to help with my anxiety?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_6a4f8626_2",
+    "answer_6a4f8626_1",
+    "sharegpt_E7VUcfj_0",
+    "5fcca8bc_1",
+    "ultrachat_518638"
+  ],
+  "retrieved_scores": [
+    19.59925472844941,
+    18.43579524328751,
+    16.95470327182435,
+    16.677264452470638,
+    15.589233685790841
+  ],
+  "method": "bm25",
+  "k": 5
+}

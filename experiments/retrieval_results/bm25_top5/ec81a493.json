@@ -1,0 +1,21 @@
+{
+  "question_id": "ec81a493",
+  "question": "How many copies of my favorite artist's debut album were released worldwide?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_ed1982fc",
+    "ultrachat_413665",
+    "6f55019d",
+    "ultrachat_447961",
+    "ab4643a2_4"
+  ],
+  "retrieved_scores": [
+    29.396092678876162,
+    12.454451670232203,
+    11.51758627964554,
+    10.169868659097087,
+    9.144159577995683
+  ],
+  "method": "bm25",
+  "k": 5
+}

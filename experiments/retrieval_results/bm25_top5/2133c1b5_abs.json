@@ -1,0 +1,21 @@
+{
+  "question_id": "2133c1b5_abs",
+  "question": "How long have I been living in my current apartment in Shinjuku?",
+  "question_type": "abstention",
+  "retrieved_sessions": [
+    "answer_52382508_abs_1",
+    "a864e7aa_5",
+    "answer_52382508_abs_2",
+    "d9f599e6_4",
+    "fe6d8377_1"
+  ],
+  "retrieved_scores": [
+    16.864013526896105,
+    16.288829573934354,
+    13.254651866997268,
+    12.722491101667275,
+    12.26630951570149
+  ],
+  "method": "bm25",
+  "k": 5
+}

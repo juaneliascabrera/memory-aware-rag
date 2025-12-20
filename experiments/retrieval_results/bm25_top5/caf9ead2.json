@@ -1,0 +1,21 @@
+{
+  "question_id": "caf9ead2",
+  "question": "How long did it take to move to the new apartment?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_0714183a",
+    "f684ac4c_2",
+    "f8ba3f69",
+    "ultrachat_532107",
+    "sharegpt_3D3oQC0_213"
+  ],
+  "retrieved_scores": [
+    20.77764511607118,
+    15.234186044954816,
+    13.481951816717682,
+    12.521469646253484,
+    12.172109863620284
+  ],
+  "method": "bm25",
+  "k": 5
+}

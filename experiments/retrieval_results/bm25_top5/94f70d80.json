@@ -1,0 +1,21 @@
+{
+  "question_id": "94f70d80",
+  "question": "How long did it take me to assemble the IKEA bookshelf?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_c63c0458",
+    "sharegpt_6fTnCnw_76",
+    "sharegpt_mJ7MnQS_31",
+    "67045503",
+    "58de8f9b"
+  ],
+  "retrieved_scores": [
+    27.779418625128166,
+    12.958162828432938,
+    11.828596383867795,
+    10.743463419247135,
+    10.737308346705593
+  ],
+  "method": "bm25",
+  "k": 5
+}

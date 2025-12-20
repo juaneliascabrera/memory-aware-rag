@@ -1,0 +1,21 @@
+{
+  "question_id": "00ca467f",
+  "question": "How many doctor's appointments did I go to in March?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_39900a0a_1",
+    "answer_39900a0a_3",
+    "4951c0b9_1",
+    "ultrachat_145200",
+    "answer_39900a0a_2"
+  ],
+  "retrieved_scores": [
+    19.337313159330755,
+    15.750852192855842,
+    12.489696397100165,
+    12.237377965441636,
+    11.862546949168037
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_d84a3211",
+  "question": "How much total money have I spent on bike-related expenses since the start of the year?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_2880eb6c_4",
+    "answer_2880eb6c_3",
+    "answer_2880eb6c_1",
+    "sharegpt_OHd1RQ7_37",
+    "4a32d58c_2"
+  ],
+  "retrieved_scores": [
+    21.33049969074917,
+    20.51727976460022,
+    20.143618114637842,
+    19.22868483629149,
+    18.91864111930953
+  ],
+  "method": "bm25",
+  "k": 5
+}

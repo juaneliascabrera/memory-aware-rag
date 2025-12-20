@@ -1,0 +1,21 @@
+{
+  "question_id": "8c18457d",
+  "question": "How many days had passed between the day I bought a gift for my brother's graduation ceremony and the day I bought a birthday gift for my best friend?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_124f5dc3_1",
+    "answer_124f5dc3_2",
+    "98cd882c_2",
+    "7073a9cd_1",
+    "1a5369b9"
+  ],
+  "retrieved_scores": [
+    42.12691974194017,
+    37.54206020793568,
+    36.56384522953896,
+    28.082116376890326,
+    28.032777801967583
+  ],
+  "method": "bm25",
+  "k": 5
+}

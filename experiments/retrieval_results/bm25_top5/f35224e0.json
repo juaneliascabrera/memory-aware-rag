@@ -1,0 +1,21 @@
+{
+  "question_id": "f35224e0",
+  "question": "What is the total number of episodes I've listened to from 'How I Built This' and 'My Favorite Murder'?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_e9bb9500_2",
+    "answer_e9bb9500_1",
+    "96da07f9_4",
+    "42234f98",
+    "ultrachat_197446"
+  ],
+  "retrieved_scores": [
+    32.24039447118443,
+    28.8675176431181,
+    26.734403762239925,
+    23.107734088398793,
+    22.954103982383536
+  ],
+  "method": "bm25",
+  "k": 5
+}

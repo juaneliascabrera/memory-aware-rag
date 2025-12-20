@@ -1,0 +1,21 @@
+{
+  "question_id": "352ab8bd",
+  "question": "Can you remind me what was the average improvement in framerate when using the Hardware-Aware Modular Training (HAMT) agent in the 'To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation' submission?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_sharegpt_NoDZzot_7",
+    "337cbfc8_2",
+    "6593cb8b_6",
+    "55a59bc9_2",
+    "4a42c62b"
+  ],
+  "retrieved_scores": [
+    115.10135261261686,
+    34.85622011000366,
+    31.422482341502178,
+    30.6685915666842,
+    29.382469376499643
+  ],
+  "method": "bm25",
+  "k": 5
+}

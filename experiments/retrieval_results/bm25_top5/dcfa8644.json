@@ -1,0 +1,21 @@
+{
+  "question_id": "dcfa8644",
+  "question": "How many days had passed since I bought my Adidas running shoes when I realized one of the shoelaces on my old Converse sneakers had broken?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_5e3eeb12_2",
+    "answer_5e3eeb12_1",
+    "b2243528_1",
+    "b906870f_1",
+    "0d129c99"
+  ],
+  "retrieved_scores": [
+    42.634166805110624,
+    42.58228720570897,
+    27.817653488617598,
+    22.172782698145657,
+    21.939121832777477
+  ],
+  "method": "bm25",
+  "k": 5
+}

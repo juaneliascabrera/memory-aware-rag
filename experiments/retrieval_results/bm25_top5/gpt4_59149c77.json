@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_59149c77",
+  "question": "How many days passed between my visit to the Museum of Modern Art (MoMA) and the 'Ancient Civilizations' exhibit at the Metropolitan Museum of Art?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_d00ba6d0_2",
+    "9e2c2a6c_2",
+    "answer_d00ba6d0_1",
+    "sharegpt_XlNs8Lz_199",
+    "9242fbe3_1"
+  ],
+  "retrieved_scores": [
+    55.516325709983704,
+    42.17609913149293,
+    34.845676419564334,
+    31.23465504428592,
+    22.29323647490426
+  ],
+  "method": "bm25",
+  "k": 5
+}

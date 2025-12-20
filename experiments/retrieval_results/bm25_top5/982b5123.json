@@ -1,0 +1,21 @@
+{
+  "question_id": "982b5123",
+  "question": "How many months ago did I book the Airbnb in San Francisco?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_ab603dd5_1",
+    "answer_ab603dd5_2",
+    "e36b0031",
+    "07ba9acd_2",
+    "1bfd5a8b_3"
+  ],
+  "retrieved_scores": [
+    26.86376232836345,
+    20.18772140507258,
+    17.417886686296086,
+    16.847511444545148,
+    16.30711671159234
+  ],
+  "method": "bm25",
+  "k": 5
+}

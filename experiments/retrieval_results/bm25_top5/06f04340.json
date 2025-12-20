@@ -1,0 +1,21 @@
+{
+  "question_id": "06f04340",
+  "question": "What should I serve for dinner this weekend with my homegrown ingredients?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "91223fd5_1",
+    "6e6fbb6b",
+    "0844dea6",
+    "728deb4d_4",
+    "3ceb6783_3"
+  ],
+  "retrieved_scores": [
+    17.346609592574776,
+    15.195410914122544,
+    14.990879160983585,
+    13.855713989478165,
+    11.954214376883478
+  ],
+  "method": "bm25",
+  "k": 5
+}

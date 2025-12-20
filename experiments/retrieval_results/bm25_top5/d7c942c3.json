@@ -1,0 +1,21 @@
+{
+  "question_id": "d7c942c3",
+  "question": "Is my mom using the same grocery list method as me?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_eecb10d9_2",
+    "answer_eecb10d9_1",
+    "b2243528_1",
+    "sharegpt_ezPxUrC_0",
+    "sharegpt_LOF3smB_25"
+  ],
+  "retrieved_scores": [
+    20.87985483638722,
+    16.573354548577495,
+    12.11106731443309,
+    11.840303810133134,
+    11.355549036141065
+  ],
+  "method": "bm25",
+  "k": 5
+}

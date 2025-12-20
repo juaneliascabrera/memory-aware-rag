@@ -1,0 +1,21 @@
+{
+  "question_id": "853b0a1d",
+  "question": "How old was I when my grandma gave me the silver necklace?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_69811d4a",
+    "sharegpt_n3MgsgL_0",
+    "c70f9f9c",
+    "f71bf532_1",
+    "sharegpt_B7mSlfQ_55"
+  ],
+  "retrieved_scores": [
+    37.29998798253802,
+    14.464479986329607,
+    13.740333430137397,
+    10.114114150663891,
+    9.957552136679523
+  ],
+  "method": "bm25",
+  "k": 5
+}

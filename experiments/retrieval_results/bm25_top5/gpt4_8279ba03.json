@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_8279ba03",
+  "question": "What kitchen appliance did I buy 10 days ago?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "b357fb8b_2",
+    "2ef55f49_3",
+    "50d66391_4",
+    "864a563d_5",
+    "570fe405"
+  ],
+  "retrieved_scores": [
+    9.681085261401147,
+    9.191415044606458,
+    8.658884170729426,
+    7.908929535686019,
+    7.669773863728752
+  ],
+  "method": "bm25",
+  "k": 5
+}

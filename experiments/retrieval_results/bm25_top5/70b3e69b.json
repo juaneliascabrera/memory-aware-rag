@@ -1,0 +1,21 @@
+{
+  "question_id": "70b3e69b",
+  "question": "I was going through our previous conversation about the impact of the political climate in Catalonia on its literature and music. Can you remind me of the example you gave of a Spanish-Catalan singer-songwriter who supports unity between Catalonia and Spain?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_334948",
+    "ultrachat_47234",
+    "40afb91c_1",
+    "ultrachat_464343",
+    "ultrachat_146029"
+  ],
+  "retrieved_scores": [
+    105.7817970077514,
+    38.96366997906372,
+    38.446544639285634,
+    35.61524212880891,
+    34.92332525684205
+  ],
+  "method": "bm25",
+  "k": 5
+}

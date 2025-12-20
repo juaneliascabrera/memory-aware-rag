@@ -1,0 +1,21 @@
+{
+  "question_id": "7161e7e2",
+  "question": "I'm checking our previous chat about the shift rotation sheet for GM social media agents. Can you remind me what was the rotation for Admon on a Sunday?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_sharegpt_5Lzox6N_0",
+    "dba97bb1_4",
+    "5850de18_2",
+    "e89b6be2_2",
+    "3c3fee41"
+  ],
+  "retrieved_scores": [
+    70.71024499007582,
+    30.243128300695506,
+    28.816317477776625,
+    26.781698686410813,
+    26.746813672785983
+  ],
+  "method": "bm25",
+  "k": 5
+}

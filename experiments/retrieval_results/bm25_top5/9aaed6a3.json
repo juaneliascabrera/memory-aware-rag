@@ -1,0 +1,21 @@
+{
+  "question_id": "9aaed6a3",
+  "question": "How much cashback did I earn at SaveMart last Thursday?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_353d3c6d_2",
+    "c846422a_1",
+    "answer_353d3c6d_1",
+    "11e942da_2",
+    "1bf761b8_2"
+  ],
+  "retrieved_scores": [
+    25.38254294836978,
+    19.248045383590828,
+    17.519681116227744,
+    8.519215883390114,
+    7.633999011984796
+  ],
+  "method": "bm25",
+  "k": 5
+}

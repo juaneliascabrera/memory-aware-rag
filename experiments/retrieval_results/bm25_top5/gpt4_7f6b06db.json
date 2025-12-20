@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_7f6b06db",
+  "question": "What is the order of the three trips I took in the past three months, from earliest to latest?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "39c1bf6a",
+    "d9ca4aca",
+    "ultrachat_31232",
+    "4bf66c38_2",
+    "answer_5d8c99d3_2"
+  ],
+  "retrieved_scores": [
+    26.289491790818136,
+    24.090280274134912,
+    23.976888891793706,
+    23.598118536807956,
+    23.36929994388285
+  ],
+  "method": "bm25",
+  "k": 5
+}

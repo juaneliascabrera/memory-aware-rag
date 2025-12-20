@@ -1,0 +1,21 @@
+{
+  "question_id": "8aef76bc",
+  "question": "I'm going back to our previous conversation about DIY home decor projects using recycled materials. Can you remind me what sealant you recommended for the newspaper flower vase?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_563222",
+    "27d378b2_2",
+    "146dfabe",
+    "5209e813_2",
+    "5944b36a_3"
+  ],
+  "retrieved_scores": [
+    58.76308963968584,
+    30.701199591952562,
+    29.0570865998068,
+    28.98192939799524,
+    27.59522285227905
+  ],
+  "method": "bm25",
+  "k": 5
+}

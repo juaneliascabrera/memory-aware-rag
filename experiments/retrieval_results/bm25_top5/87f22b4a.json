@@ -1,0 +1,21 @@
+{
+  "question_id": "87f22b4a",
+  "question": "How much have I made from selling eggs this month?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_f56e6152_1",
+    "02b99ec3_1",
+    "answer_f56e6152_2",
+    "ultrachat_182225",
+    "889076d6"
+  ],
+  "retrieved_scores": [
+    14.173953272596156,
+    13.797466305123503,
+    13.076877575516349,
+    12.925451431897626,
+    12.071970657326471
+  ],
+  "method": "bm25",
+  "k": 5
+}

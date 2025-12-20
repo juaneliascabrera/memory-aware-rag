@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_2f584639",
+  "question": "Which gift did I buy first, the necklace for my sister or the photo album for my mom?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_11a8f823_2",
+    "answer_11a8f823_1",
+    "c6eb17f0_1",
+    "ca555919_3",
+    "55ca8b20_3"
+  ],
+  "retrieved_scores": [
+    49.95839994509906,
+    36.2244930306453,
+    18.88164577518681,
+    18.701010379392578,
+    16.952401251981026
+  ],
+  "method": "bm25",
+  "k": 5
+}

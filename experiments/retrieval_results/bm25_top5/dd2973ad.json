@@ -1,0 +1,21 @@
+{
+  "question_id": "dd2973ad",
+  "question": "What time did I go to bed on the day before I had a doctor's appointment?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_f9de4602_2",
+    "sharegpt_O6NO7Vo_9",
+    "e5f08e40",
+    "0f73eee7_2",
+    "e720dbe2"
+  ],
+  "retrieved_scores": [
+    29.060478066492884,
+    22.635781884037435,
+    20.68960615578591,
+    20.567246578391433,
+    20.43435131792878
+  ],
+  "method": "bm25",
+  "k": 5
+}

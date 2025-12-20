@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_9a159967",
+  "question": "Which airline did I fly with the most in March and April?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_8a42fedf_2",
+    "answer_8a42fedf_3",
+    "300cfc4a",
+    "ultrachat_534927",
+    "253742b4_3"
+  ],
+  "retrieved_scores": [
+    20.171038527347502,
+    19.39965065281994,
+    15.548229159437696,
+    15.513310533643109,
+    14.452685336375922
+  ],
+  "method": "bm25",
+  "k": 5
+}

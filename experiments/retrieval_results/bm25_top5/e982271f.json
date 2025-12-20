@@ -1,0 +1,21 @@
+{
+  "question_id": "e982271f",
+  "question": "I was going through our previous chat. Can you remind me of the name of the last venue you recommended in the list of popular venues in Portland for indie music shows?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_195444",
+    "db65997e",
+    "eb0d8dc1_4",
+    "f72c924e",
+    "333a59e5_1"
+  ],
+  "retrieved_scores": [
+    55.75271219617141,
+    42.53246499597831,
+    36.33587255151515,
+    35.35317035547759,
+    34.46638327850033
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "e47becba",
+  "question": "What degree did I graduate with?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "02bd2b90_3",
+    "answer_280352e9",
+    "f6859b48_2",
+    "5dac7cc2_1",
+    "sharegpt_Cr2tc1f_0"
+  ],
+  "retrieved_scores": [
+    10.340061146631564,
+    7.772725685190075,
+    6.889523844959804,
+    5.55841089706437,
+    5.372799555736286
+  ],
+  "method": "bm25",
+  "k": 5
+}

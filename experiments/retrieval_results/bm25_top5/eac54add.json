@@ -1,0 +1,21 @@
+{
+  "question_id": "eac54add",
+  "question": "What was the significant buisiness milestone I mentioned four weeks ago?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "2ea6fda4_1",
+    "773aebbd_3",
+    "7966888b_2",
+    "c3023a45_5",
+    "28269633_2"
+  ],
+  "retrieved_scores": [
+    14.386781284646238,
+    10.931963650572715,
+    10.497214960049243,
+    10.165873206646168,
+    9.344123740704063
+  ],
+  "method": "bm25",
+  "k": 5
+}

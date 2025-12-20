@@ -1,0 +1,21 @@
+{
+  "question_id": "4f54b7c9",
+  "question": "How many antique items did I inherit or acquire from my family members?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_50940cb7_2",
+    "answer_50940cb7_1",
+    "8a834aee_1",
+    "bcfd4ab7",
+    "663337ce_1"
+  ],
+  "retrieved_scores": [
+    20.942277613218135,
+    18.62652482056505,
+    14.143985184954843,
+    12.932770467927984,
+    12.537084771950768
+  ],
+  "method": "bm25",
+  "k": 5
+}

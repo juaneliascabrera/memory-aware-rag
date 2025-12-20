@@ -1,0 +1,21 @@
+{
+  "question_id": "06878be2",
+  "question": "Can you suggest some accessories that would complement my current photography setup?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "a6074da9_1",
+    "answer_555dfb94",
+    "ca929779_1",
+    "ultrachat_448784",
+    "8fcfbe43_2"
+  ],
+  "retrieved_scores": [
+    13.966622316408788,
+    13.083611189788373,
+    12.949410087371508,
+    12.41181061266959,
+    11.453369767505746
+  ],
+  "method": "bm25",
+  "k": 5
+}

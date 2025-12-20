@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_70e84552",
+  "question": "Which task did I complete first, fixing the fence or trimming the goats' hooves?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_b3070ec4_2",
+    "answer_b3070ec4_1",
+    "30491f6f_1",
+    "1e5d09fe_1",
+    "3f787a78_1"
+  ],
+  "retrieved_scores": [
+    21.721668478481398,
+    21.425859770132895,
+    14.74149249320686,
+    11.771944575289824,
+    11.469979033144746
+  ],
+  "method": "bm25",
+  "k": 5
+}

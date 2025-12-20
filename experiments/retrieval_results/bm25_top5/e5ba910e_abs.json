@@ -1,0 +1,21 @@
+{
+  "question_id": "e5ba910e_abs",
+  "question": "What is the total cost of my recently purchased headphones and the iPad?",
+  "question_type": "abstention",
+  "retrieved_sessions": [
+    "answer_e49ed9d3_abs_1",
+    "sharegpt_3LFnGjR_11",
+    "answer_e49ed9d3_abs_2",
+    "bd8a4fcb_2",
+    "6339aa1d_2"
+  ],
+  "retrieved_scores": [
+    20.488675920902917,
+    18.412620168375145,
+    17.74217837242203,
+    16.215932790338528,
+    13.580877940921878
+  ],
+  "method": "bm25",
+  "k": 5
+}

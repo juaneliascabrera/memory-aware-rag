@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_4ef30696",
+  "question": "How many days passed between the day I finished reading 'The Nightingale' and the day I started reading 'The Hitchhiker's Guide to the Galaxy'?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_f964cea3_2",
+    "answer_f964cea3_1",
+    "4067bede",
+    "sharegpt_ELYlA30_25",
+    "80b3f093"
+  ],
+  "retrieved_scores": [
+    43.01623879632227,
+    31.63629831500874,
+    30.97608256375227,
+    28.914771727499396,
+    28.452030514299285
+  ],
+  "method": "bm25",
+  "k": 5
+}

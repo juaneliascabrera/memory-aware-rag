@@ -1,0 +1,21 @@
+{
+  "question_id": "6ade9755",
+  "question": "Where do I take yoga classes?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_9398da02",
+    "ec8fa65d_2",
+    "7c5ab02a_2",
+    "ultrachat_270925",
+    "ultrachat_393203"
+  ],
+  "retrieved_scores": [
+    17.098879071315835,
+    7.13473327888043,
+    6.716782730499234,
+    5.356975109693783,
+    5.297762002436385
+  ],
+  "method": "bm25",
+  "k": 5
+}

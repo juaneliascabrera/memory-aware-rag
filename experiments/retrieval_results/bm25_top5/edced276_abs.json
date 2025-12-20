@@ -1,0 +1,21 @@
+{
+  "question_id": "edced276_abs",
+  "question": "How many days did I spend in total traveling in Hawaii and in Seattle?",
+  "question_type": "abstention",
+  "retrieved_sessions": [
+    "answer_60e8941a_abs_2",
+    "answer_60e8941a_abs_1",
+    "8e8288b3",
+    "24b91514_2",
+    "508d552e_7"
+  ],
+  "retrieved_scores": [
+    23.77725142270695,
+    19.59410358768147,
+    17.620002028519846,
+    14.539641482543356,
+    13.623087763264017
+  ],
+  "method": "bm25",
+  "k": 5
+}

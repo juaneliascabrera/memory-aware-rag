@@ -1,0 +1,21 @@
+{
+  "question_id": "e831120c",
+  "question": "How many weeks did it take me to watch all the Marvel Cinematic Universe movies and the main Star Wars films?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_86c505e7_2",
+    "answer_86c505e7_1",
+    "a63ad8e3_2",
+    "sharegpt_sDfu38Q_0",
+    "7c82a6c3"
+  ],
+  "retrieved_scores": [
+    53.65092995974442,
+    35.72926834493013,
+    18.354991632780898,
+    18.039554638319498,
+    17.997181222886663
+  ],
+  "method": "bm25",
+  "k": 5
+}

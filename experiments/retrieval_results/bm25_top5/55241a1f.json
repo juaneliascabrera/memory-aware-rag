@@ -1,0 +1,21 @@
+{
+  "question_id": "55241a1f",
+  "question": "What is the total number of comments on my recent Facebook Live session and my most popular YouTube video?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_fa08bf49_1",
+    "answer_fa08bf49_2",
+    "9c9a22d8",
+    "76491ee4_1",
+    "d117e2da"
+  ],
+  "retrieved_scores": [
+    38.24802921312734,
+    35.176654234299065,
+    21.71050693112694,
+    21.108307551344343,
+    20.91283590422972
+  ],
+  "method": "bm25",
+  "k": 5
+}

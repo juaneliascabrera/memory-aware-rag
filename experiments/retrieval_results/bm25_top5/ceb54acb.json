@@ -1,0 +1,21 @@
+{
+  "question_id": "ceb54acb",
+  "question": "In our previous chat, you suggested 'sexual compulsions' and a few other options for alternative terms for certain behaviors. Can you remind me what the other four options were?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_sharegpt_cGdjmYo_0",
+    "f6fd00cf",
+    "511bdbe3_2",
+    "de293134_1",
+    "7aa2a9af_2"
+  ],
+  "retrieved_scores": [
+    43.635804023778384,
+    30.320658343679046,
+    28.911281875891714,
+    28.34064758627897,
+    26.272773847099053
+  ],
+  "method": "bm25",
+  "k": 5
+}

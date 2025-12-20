@@ -1,0 +1,21 @@
+{
+  "question_id": "88432d0a",
+  "question": "How many times did I bake something in the past two weeks?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "sharegpt_HpkiAOb_9",
+    "f777f641",
+    "c9d35c00_2",
+    "1c8832b4_2",
+    "answer_733e443a_2"
+  ],
+  "retrieved_scores": [
+    13.529209774302304,
+    12.724668423713709,
+    12.598251088788118,
+    12.564692890458742,
+    12.108722808943629
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "07741c45",
+  "question": "Where do I currently keep my old sneakers?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_7e9ad7b4_2",
+    "answer_7e9ad7b4_1",
+    "af4a2fd1",
+    "ultrachat_162268",
+    "66c23110_2"
+  ],
+  "retrieved_scores": [
+    14.511651501008366,
+    12.301233816413493,
+    10.381881019299236,
+    6.641412451134999,
+    6.542598135457383
+  ],
+  "method": "bm25",
+  "k": 5
+}

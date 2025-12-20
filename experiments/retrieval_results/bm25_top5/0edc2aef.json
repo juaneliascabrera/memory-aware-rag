@@ -1,0 +1,21 @@
+{
+  "question_id": "0edc2aef",
+  "question": "Can you suggest a hotel for my upcoming trip to Miami?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "f20e72e4_1",
+    "6a747f2e",
+    "answer_d586e9cd",
+    "53dc1394",
+    "08ca1f31_2"
+  ],
+  "retrieved_scores": [
+    18.721383929489235,
+    17.71988783831301,
+    16.873138711666655,
+    15.792886593561482,
+    13.931807250239942
+  ],
+  "method": "bm25",
+  "k": 5
+}

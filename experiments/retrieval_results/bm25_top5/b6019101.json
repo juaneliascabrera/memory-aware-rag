@@ -1,0 +1,21 @@
+{
+  "question_id": "b6019101",
+  "question": "How many MCU films did I watch in the last 3 months?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_67074b4b_1",
+    "answer_67074b4b_2",
+    "ultrachat_72569",
+    "sharegpt_CvVLg2J_18",
+    "9bd36386"
+  ],
+  "retrieved_scores": [
+    23.303133951023995,
+    22.14384371198913,
+    15.815470462416695,
+    12.498375640395034,
+    11.954668247842388
+  ],
+  "method": "bm25",
+  "k": 5
+}

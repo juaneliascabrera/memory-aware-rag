@@ -1,0 +1,21 @@
+{
+  "question_id": "d596882b",
+  "question": "I'm planning another trip to New York City and I was wondering if you could remind me of that vegan eatery you recommended last time, the one with multiple locations throughout the city?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_252214",
+    "dc9bf721_1",
+    "9f6bec4f",
+    "456807b7_1",
+    "ultrachat_299672"
+  ],
+  "retrieved_scores": [
+    56.61513607526963,
+    37.06556854244388,
+    36.41889960705994,
+    34.78744308052359,
+    33.85431324720039
+  ],
+  "method": "bm25",
+  "k": 5
+}

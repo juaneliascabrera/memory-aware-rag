@@ -1,0 +1,21 @@
+{
+  "question_id": "6e984301",
+  "question": "How many weeks have I been taking sculpting classes when I invested in my own set of sculpting tools?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_88841f26_1",
+    "answer_88841f26_2",
+    "c36ece7b",
+    "55c23a23_2",
+    "b38766c1_2"
+  ],
+  "retrieved_scores": [
+    27.49808939101812,
+    26.909478031380473,
+    18.197632607027305,
+    17.781153238748015,
+    17.546461242286924
+  ],
+  "method": "bm25",
+  "k": 5
+}

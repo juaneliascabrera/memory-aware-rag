@@ -1,0 +1,21 @@
+{
+  "question_id": "0db4c65d",
+  "question": "How many days had passed since I finished reading 'The Seven Husbands of Evelyn Hugo' when I attended the book reading event at the local library, where the author of 'The Silent Patient' is discussing her latest thriller novel?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_b9e32ff8_2",
+    "answer_b9e32ff8_1",
+    "d36d11b9_2",
+    "71dc2037_2",
+    "953d5a4b_1"
+  ],
+  "retrieved_scores": [
+    65.52389547533646,
+    63.3377501010322,
+    34.65593898526594,
+    32.33892229972787,
+    30.62837635363925
+  ],
+  "method": "bm25",
+  "k": 5
+}

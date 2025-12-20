@@ -1,0 +1,21 @@
+{
+  "question_id": "a1cc6108",
+  "question": "How old was I when Alex was born?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_17dc2f5b_2",
+    "298a07de_5",
+    "7285299a_4",
+    "fce56dfb_4",
+    "001cefa7_2"
+  ],
+  "retrieved_scores": [
+    13.60686802158208,
+    11.798885050943014,
+    9.224185703411333,
+    7.065718396540598,
+    6.903231175075183
+  ],
+  "method": "bm25",
+  "k": 5
+}

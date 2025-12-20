@@ -1,0 +1,21 @@
+{
+  "question_id": "ba358f49_abs",
+  "question": "How old will Rachel be when I get married?",
+  "question_type": "abstention",
+  "retrieved_sessions": [
+    "answer_cbd08e3c_abs_1",
+    "07ebc271",
+    "30e58d0c_2",
+    "1162611c",
+    "49a14a21_1"
+  ],
+  "retrieved_scores": [
+    12.91514400346799,
+    10.142713679986976,
+    8.776082053913317,
+    8.494776628407848,
+    8.310655462940854
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "a4996e51",
+  "question": "How many hours do I work in a typical week during peak campaign seasons?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_feb5f98a_2",
+    "answer_feb5f98a_1",
+    "252715f8_3",
+    "sharegpt_KjF70Iy_0",
+    "e9fba4f8"
+  ],
+  "retrieved_scores": [
+    28.018805773441432,
+    22.00573373760193,
+    12.855544385839758,
+    11.943748450491558,
+    11.79471551127181
+  ],
+  "method": "bm25",
+  "k": 5
+}

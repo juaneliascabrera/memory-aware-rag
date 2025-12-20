@@ -1,0 +1,21 @@
+{
+  "question_id": "118b2229",
+  "question": "How long is my daily commute to work?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_40a90d51",
+    "db73b7e4_4",
+    "afe04238_1",
+    "5dce60dd",
+    "ultrachat_392094"
+  ],
+  "retrieved_scores": [
+    15.23625229295803,
+    9.71001983290203,
+    9.289299618609352,
+    8.152994175530392,
+    7.7501058613885325
+  ],
+  "method": "bm25",
+  "k": 5
+}

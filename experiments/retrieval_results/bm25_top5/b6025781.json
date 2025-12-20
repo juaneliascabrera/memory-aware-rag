@@ -1,0 +1,21 @@
+{
+  "question_id": "b6025781",
+  "question": "I'm planning my meal prep next week, any suggestions for new recipes?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "answer_8414cc57",
+    "f20c73f5_3",
+    "612c8368_2",
+    "2ef53f61_1",
+    "1a693999_4"
+  ],
+  "retrieved_scores": [
+    25.27971327627606,
+    19.594939927474908,
+    14.051128058473967,
+    13.632183062391881,
+    12.958680852965095
+  ],
+  "method": "bm25",
+  "k": 5
+}

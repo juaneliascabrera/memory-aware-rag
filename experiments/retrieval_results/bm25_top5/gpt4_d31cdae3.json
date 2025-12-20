@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_d31cdae3",
+  "question": "Which trip did the narrator take first, the solo trip to Europe or the family road trip across the American Southwest?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_8464304d_2",
+    "answer_8464304d_1",
+    "de695a4e",
+    "ultrachat_324099",
+    "41743aae_2"
+  ],
+  "retrieved_scores": [
+    51.61434292536151,
+    40.43325101949275,
+    22.655311364446664,
+    17.696274121316943,
+    15.733962264243205
+  ],
+  "method": "bm25",
+  "k": 5
+}

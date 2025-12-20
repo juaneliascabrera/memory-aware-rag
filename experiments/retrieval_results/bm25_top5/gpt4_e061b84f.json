@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_e061b84f",
+  "question": "What is the order of the three sports events I participated in during the past month, from earliest to latest?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "0a6bf5e4_1",
+    "73bc3176_2",
+    "ultrachat_129606",
+    "9345f7dc_4",
+    "539c2346_3"
+  ],
+  "retrieved_scores": [
+    24.18586851617637,
+    23.80443923082315,
+    22.55145864126999,
+    22.0423302819406,
+    21.661470223144043
+  ],
+  "method": "bm25",
+  "k": 5
+}

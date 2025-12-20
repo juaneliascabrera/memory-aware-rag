@@ -1,0 +1,21 @@
+{
+  "question_id": "25e5aa4f",
+  "question": "Where did I complete my Bachelor's degree in Computer Science?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_986de8c3",
+    "18807892_4",
+    "48f804a3",
+    "a459d477",
+    "sharegpt_8cFNcVG_0"
+  ],
+  "retrieved_scores": [
+    24.646596339071234,
+    13.626217727464377,
+    13.196169334977997,
+    9.235021231624383,
+    8.679350803688424
+  ],
+  "method": "bm25",
+  "k": 5
+}

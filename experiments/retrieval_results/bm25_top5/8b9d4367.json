@@ -1,0 +1,21 @@
+{
+  "question_id": "8b9d4367",
+  "question": "I wanted to follow up on our previous conversation about private sector businesses in Chaudhary. Can you remind me of the company that employs over 40,000 people in the rug-manufacturing industry?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_289157",
+    "sharegpt_WZzri9J_0",
+    "007e7d81_3",
+    "7babf05b",
+    "sharegpt_iHP3XDi_39"
+  ],
+  "retrieved_scores": [
+    80.65672674409655,
+    31.593941194135326,
+    31.358408724312188,
+    29.542012817013386,
+    29.45347062305899
+  ],
+  "method": "bm25",
+  "k": 5
+}

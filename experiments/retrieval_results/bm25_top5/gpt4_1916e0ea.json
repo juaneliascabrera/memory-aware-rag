@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_1916e0ea",
+  "question": "How many days passed between the day I cancelled my FarmFresh subscription and the day I did my online grocery shopping from Instacart?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_447052a5_2",
+    "answer_447052a5_1",
+    "d3fe25ff",
+    "280352e9",
+    "fa1ce406_2"
+  ],
+  "retrieved_scores": [
+    31.806957073879133,
+    28.76216496891737,
+    26.360906715576732,
+    24.753786433059098,
+    22.363532095124203
+  ],
+  "method": "bm25",
+  "k": 5
+}

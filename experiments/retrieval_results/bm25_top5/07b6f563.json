@@ -1,0 +1,21 @@
+{
+  "question_id": "07b6f563",
+  "question": "Can you suggest some useful accessories for my phone?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "66ab6260",
+    "0ac1a6f9_2",
+    "answer_d03098f9",
+    "dcc7f430_1",
+    "bbccfe79"
+  ],
+  "retrieved_scores": [
+    13.974005077962232,
+    12.60201445818864,
+    11.974402849750742,
+    11.710599370974236,
+    10.972682217280601
+  ],
+  "method": "bm25",
+  "k": 5
+}

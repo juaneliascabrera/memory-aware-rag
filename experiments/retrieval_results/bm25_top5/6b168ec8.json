@@ -1,0 +1,21 @@
+{
+  "question_id": "6b168ec8",
+  "question": "How many bikes do I own?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_e623ae87",
+    "ultrachat_377741",
+    "afffd8ec_3",
+    "ultrachat_360618",
+    "ultrachat_499691"
+  ],
+  "retrieved_scores": [
+    11.72271677720653,
+    6.773558137717962,
+    6.458857360730498,
+    6.311366487444348,
+    6.027945362224459
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "ba358f49",
+  "question": "How many years will I be when my friend Rachel gets married?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_cbd08e3c_1",
+    "9cc709cb",
+    "762d288d_1",
+    "4f838497_2",
+    "385683f0_2"
+  ],
+  "retrieved_scores": [
+    18.17734700410443,
+    12.257117811880725,
+    11.43511470262923,
+    10.78288486395549,
+    10.594680679344904
+  ],
+  "method": "bm25",
+  "k": 5
+}

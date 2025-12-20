@@ -1,0 +1,21 @@
+{
+  "question_id": "1a8a66a6",
+  "question": "How many magazine subscriptions do I currently have?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_2bd23659_3",
+    "ultrachat_456324",
+    "answer_2bd23659_1",
+    "02042eab_2",
+    "54aa4875"
+  ],
+  "retrieved_scores": [
+    13.725163609192933,
+    10.102914561873877,
+    9.305204591479654,
+    9.211903026223268,
+    8.265598175756775
+  ],
+  "method": "bm25",
+  "k": 5
+}

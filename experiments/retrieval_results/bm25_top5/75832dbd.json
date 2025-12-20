@@ -1,0 +1,21 @@
+{
+  "question_id": "75832dbd",
+  "question": "Can you recommend some recent publications or conferences that I might find interesting?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "sharegpt_xni9yYO_6",
+    "ultrachat_165893",
+    "c7270a1b_1",
+    "sharegpt_FYqt26U_0",
+    "1ef63c66"
+  ],
+  "retrieved_scores": [
+    16.033384877368995,
+    14.467696686946287,
+    13.392900957972381,
+    13.253833342078476,
+    12.663510811106228
+  ],
+  "method": "bm25",
+  "k": 5
+}

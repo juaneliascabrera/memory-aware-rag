@@ -1,0 +1,21 @@
+{
+  "question_id": "71a3fd6b",
+  "question": "I'm planning my trip to Speyer again and I wanted to confirm, what's the phone number of the Speyer tourism board that you provided me earlier?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_417348",
+    "36743359_3",
+    "7f7e26d2_2",
+    "sharegpt_1L5GXZJ_0",
+    "sharegpt_asilfXk_321"
+  ],
+  "retrieved_scores": [
+    47.602223293909525,
+    32.19336201401444,
+    30.528194009292214,
+    30.466446647753482,
+    29.656459263809626
+  ],
+  "method": "bm25",
+  "k": 5
+}

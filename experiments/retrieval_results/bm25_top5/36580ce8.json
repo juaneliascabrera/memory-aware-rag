@@ -1,0 +1,21 @@
+{
+  "question_id": "36580ce8",
+  "question": "What health issue did I initially think was just a cold?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_93e1bd22",
+    "ultrachat_53784",
+    "ultrachat_299779",
+    "ultrachat_270984",
+    "sharegpt_FpTfRvR_0"
+  ],
+  "retrieved_scores": [
+    13.061426054306954,
+    10.576143519058057,
+    10.218646086520717,
+    10.124898536659275,
+    9.594647008669266
+  ],
+  "method": "bm25",
+  "k": 5
+}

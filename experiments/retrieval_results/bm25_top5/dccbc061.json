@@ -1,0 +1,21 @@
+{
+  "question_id": "dccbc061",
+  "question": "What was my previous stance on spirituality?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_8f276838",
+    "0f417163",
+    "8d74c5f6",
+    "b2a885b9",
+    "959e6cb0_3"
+  ],
+  "retrieved_scores": [
+    12.95682558236606,
+    8.35841750697518,
+    5.9983414684053304,
+    5.891095058210922,
+    5.770821250807335
+  ],
+  "method": "bm25",
+  "k": 5
+}

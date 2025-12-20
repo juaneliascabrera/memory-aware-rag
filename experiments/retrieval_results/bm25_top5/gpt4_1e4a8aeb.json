@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_1e4a8aeb",
+  "question": "How many days passed between the day I attended the gardening workshop and the day I planted the tomato saplings?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_16bd5ea5_2",
+    "answer_16bd5ea5_1",
+    "f7838a91_1",
+    "28621d6a_2",
+    "15564b61_2"
+  ],
+  "retrieved_scores": [
+    36.58862632118414,
+    33.072428595642414,
+    23.55076258615024,
+    19.43129297039036,
+    19.247863014763645
+  ],
+  "method": "bm25",
+  "k": 5
+}

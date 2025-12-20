@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_af6db32f",
+  "question": "How many days ago did I watch the Super Bowl?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "aee13015_6",
+    "answer_184c8f56_1",
+    "ultrachat_552923",
+    "ec1b557a_1",
+    "e0b8c937_1"
+  ],
+  "retrieved_scores": [
+    12.721750029372865,
+    12.699518121975682,
+    8.579362618657989,
+    8.557593991417914,
+    8.18660185634472
+  ],
+  "method": "bm25",
+  "k": 5
+}

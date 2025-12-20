@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_7bc6cf22",
+  "question": "How many days ago did I read the March 15th issue of The New Yorker?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_e22d6aef_1",
+    "09d021e7_1",
+    "e6cc6157_1",
+    "sharegpt_xiDADcv_0",
+    "ultrachat_215356"
+  ],
+  "retrieved_scores": [
+    23.970780401323214,
+    18.91094550873585,
+    15.802548947232683,
+    13.76475482264357,
+    13.050734139653299
+  ],
+  "method": "bm25",
+  "k": 5
+}

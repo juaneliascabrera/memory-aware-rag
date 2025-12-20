@@ -1,0 +1,21 @@
+{
+  "question_id": "60472f9c",
+  "question": "How many projects have I been working on simultaneously, excluding my thesis?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_e7fe8c8b_1",
+    "answer_e7fe8c8b_2",
+    "answer_e7fe8c8b_3",
+    "b1815b81",
+    "10eafdb9_1"
+  ],
+  "retrieved_scores": [
+    22.26281035546734,
+    14.773782034146581,
+    11.99327956981794,
+    11.302917073215783,
+    9.683718372604488
+  ],
+  "method": "bm25",
+  "k": 5
+}

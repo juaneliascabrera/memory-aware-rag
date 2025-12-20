@@ -1,0 +1,21 @@
+{
+  "question_id": "8550ddae",
+  "question": "What type of cocktail recipe did I try last weekend?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_c8354ae9",
+    "71cf5aeb_3",
+    "a7189b75",
+    "8ec23b2c",
+    "4f234e2c"
+  ],
+  "retrieved_scores": [
+    18.228657299715955,
+    12.022045442720378,
+    10.508639883969078,
+    10.362152286385644,
+    8.954229434787676
+  ],
+  "method": "bm25",
+  "k": 5
+}

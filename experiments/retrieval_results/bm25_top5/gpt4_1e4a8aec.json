@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_1e4a8aec",
+  "question": "What gardening-related activity did I do two weeks ago?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "9f1f3bf4",
+    "a8086137",
+    "answer_16bd5ea6_1",
+    "4c8455cb_2",
+    "answer_16bd5ea6_2"
+  ],
+  "retrieved_scores": [
+    16.76089332630324,
+    14.000722676605369,
+    10.585466121666391,
+    10.077210789777087,
+    8.632589661038052
+  ],
+  "method": "bm25",
+  "k": 5
+}

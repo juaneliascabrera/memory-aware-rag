@@ -1,0 +1,21 @@
+{
+  "question_id": "71017276",
+  "question": "How many weeks ago did I meet up with my aunt and receive the crystal chandelier?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_0b4a8adc_1",
+    "sharegpt_tCLMKZY_0",
+    "4d6927c2_2",
+    "10889cf0_1",
+    "sharegpt_11WxPMZ_0"
+  ],
+  "retrieved_scores": [
+    28.338187042334074,
+    18.095866141589834,
+    16.772839697168564,
+    16.484964343889153,
+    14.894172547166256
+  ],
+  "method": "bm25",
+  "k": 5
+}

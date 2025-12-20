@@ -1,0 +1,21 @@
+{
+  "question_id": "778164c6",
+  "question": "I was looking back at our previous conversation about Caribbean dishes and I was wondering, what was the name of that Jamaican dish you recommended I try with snapper that has fruit in it?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_399000",
+    "ultrachat_144598",
+    "sharegpt_ki9IVDq_6",
+    "sharegpt_CyJ3dal_43",
+    "483ddd90"
+  ],
+  "retrieved_scores": [
+    63.62775397135264,
+    37.77545038380118,
+    36.61016345583582,
+    36.59969416359287,
+    34.86799304480687
+  ],
+  "method": "bm25",
+  "k": 5
+}

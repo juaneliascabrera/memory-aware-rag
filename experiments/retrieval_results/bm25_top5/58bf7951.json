@@ -1,0 +1,21 @@
+{
+  "question_id": "58bf7951",
+  "question": "What play did I attend at the local community theater?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_355c48bb",
+    "ultrachat_268434",
+    "sharegpt_gmLF3PE_17",
+    "sharegpt_M84blrA_53",
+    "ultrachat_365156"
+  ],
+  "retrieved_scores": [
+    19.62183512563634,
+    11.470907497469303,
+    10.933077446888227,
+    10.694134686722435,
+    9.484291609309285
+  ],
+  "method": "bm25",
+  "k": 5
+}

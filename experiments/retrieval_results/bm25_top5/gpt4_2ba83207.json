@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_2ba83207",
+  "question": "Which grocery store did I spend the most money at in the past month?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_6a3b5c13_2",
+    "answer_6a3b5c13_1",
+    "answer_6a3b5c13_3",
+    "answer_6a3b5c13_4",
+    "58d66fec"
+  ],
+  "retrieved_scores": [
+    20.68488902617955,
+    18.8158465272126,
+    18.592039806323122,
+    17.851519329507184,
+    15.89594260217661
+  ],
+  "method": "bm25",
+  "k": 5
+}

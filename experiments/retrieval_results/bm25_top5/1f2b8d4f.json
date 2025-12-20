@@ -1,0 +1,21 @@
+{
+  "question_id": "1f2b8d4f",
+  "question": "What is the difference in price between my luxury boots and the similar pair found at the budget store?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_d8454588_1",
+    "answer_d8454588_2",
+    "d3ee5958_2",
+    "9e96d5b9_1",
+    "c9b1c309_4"
+  ],
+  "retrieved_scores": [
+    41.55547353272047,
+    41.120467335066756,
+    26.498265803635533,
+    24.33885030961295,
+    21.263990940763996
+  ],
+  "method": "bm25",
+  "k": 5
+}

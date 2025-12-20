@@ -1,0 +1,21 @@
+{
+  "question_id": "a3332713",
+  "question": "What is the total amount I spent on gifts for my coworker and brother?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_16ece55f_2",
+    "answer_16ece55f_1",
+    "67388dfc_2",
+    "3e59ee68_1",
+    "117098d9_3"
+  ],
+  "retrieved_scores": [
+    37.04764111283951,
+    22.970026600687774,
+    16.524900349250206,
+    15.234169696492378,
+    14.861256337241645
+  ],
+  "method": "bm25",
+  "k": 5
+}

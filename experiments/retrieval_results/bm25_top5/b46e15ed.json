@@ -1,0 +1,21 @@
+{
+  "question_id": "b46e15ed",
+  "question": "How many months have passed since I participated in two charity events in a row, on consecutive days?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_4bfcc250_1",
+    "aeab3296",
+    "answer_4bfcc250_2",
+    "answer_4bfcc250_3",
+    "4bf66c38_2"
+  ],
+  "retrieved_scores": [
+    23.092602564691457,
+    20.265340430792527,
+    18.974593426259176,
+    18.155415590894307,
+    16.56583911120492
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "c8f1aeed",
+  "question": "I wanted to follow up on our previous conversation about fracking in the Marcellus Shale region. You mentioned that some states require fracking companies to monitor groundwater quality at nearby wells before drilling and for a certain period after drilling is complete. Can you remind me which state you mentioned as an example that has this requirement?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_519486",
+    "sharegpt_ebYKddM_87",
+    "a53fdd02_2",
+    "c3023a45_5",
+    "641da543"
+  ],
+  "retrieved_scores": [
+    131.0461962718251,
+    57.8498096753027,
+    51.298080279965866,
+    50.877566845935284,
+    50.550927417897626
+  ],
+  "method": "bm25",
+  "k": 5
+}

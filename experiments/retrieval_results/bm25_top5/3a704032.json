@@ -1,0 +1,21 @@
+{
+  "question_id": "3a704032",
+  "question": "How many plants did I acquire in the last month?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_c2204106_1",
+    "answer_c2204106_2",
+    "answer_c2204106_3",
+    "014a5d36",
+    "38e81260_5"
+  ],
+  "retrieved_scores": [
+    13.611207460602643,
+    11.14544815088696,
+    10.902647664548722,
+    10.270576942442004,
+    9.682164912746645
+  ],
+  "method": "bm25",
+  "k": 5
+}

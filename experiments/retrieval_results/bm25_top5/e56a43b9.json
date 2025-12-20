@@ -1,0 +1,21 @@
+{
+  "question_id": "e56a43b9",
+  "question": "How much discount will I get on my next purchase at FreshMart?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_430d0a87_2",
+    "answer_430d0a87_1",
+    "7596ba6a",
+    "57a6a404_3",
+    "83e14506_2"
+  ],
+  "retrieved_scores": [
+    22.713770605058926,
+    21.79544493488146,
+    14.778829327191191,
+    11.2615814125403,
+    10.973209379980721
+  ],
+  "method": "bm25",
+  "k": 5
+}

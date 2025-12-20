@@ -1,0 +1,21 @@
+{
+  "question_id": "60bf93ed",
+  "question": "How many days did it take for my laptop backpack to arrive after I bought it?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_e0956e0a_1",
+    "answer_e0956e0a_2",
+    "ultrachat_7648",
+    "e9590b7d",
+    "0e297c49"
+  ],
+  "retrieved_scores": [
+    26.2485169397656,
+    23.884704752056614,
+    18.49643409060344,
+    17.495546377009976,
+    16.419568808356235
+  ],
+  "method": "bm25",
+  "k": 5
+}

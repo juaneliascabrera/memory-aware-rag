@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_2f91af09",
+  "question": "How many total pieces of writing have I completed since I started writing again three weeks ago, including short stories, poems, and pieces for the writing challenge?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_669318cf_3",
+    "answer_669318cf_2",
+    "answer_669318cf_1",
+    "22b3af37_1",
+    "f4038906_2"
+  ],
+  "retrieved_scores": [
+    46.23269173221951,
+    40.65024110331581,
+    36.45833764540052,
+    31.11433498523213,
+    27.250892028252572
+  ],
+  "method": "bm25",
+  "k": 5
+}

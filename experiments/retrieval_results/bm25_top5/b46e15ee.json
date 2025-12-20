@@ -1,0 +1,21 @@
+{
+  "question_id": "b46e15ee",
+  "question": "What charity event did I participate in a month ago?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_4bfcc251_1",
+    "answer_4bfcc251_3",
+    "answer_4bfcc251_2",
+    "989ad9e6_3",
+    "e03c71c5_1"
+  ],
+  "retrieved_scores": [
+    16.90141019872579,
+    11.906023029717566,
+    10.969889605134115,
+    10.217864585135784,
+    10.172591425687864
+  ],
+  "method": "bm25",
+  "k": 5
+}

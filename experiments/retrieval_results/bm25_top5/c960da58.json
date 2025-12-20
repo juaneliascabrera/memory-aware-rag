@@ -1,0 +1,21 @@
+{
+  "question_id": "c960da58",
+  "question": "How many playlists do I have on Spotify?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_e05e4612",
+    "ultrachat_198948",
+    "f7ffddbc",
+    "ultrachat_36718",
+    "fb5dd87f_1"
+  ],
+  "retrieved_scores": [
+    19.535127495696827,
+    9.072849892848149,
+    9.043619520643295,
+    8.80802005758857,
+    8.700096039461254
+  ],
+  "method": "bm25",
+  "k": 5
+}

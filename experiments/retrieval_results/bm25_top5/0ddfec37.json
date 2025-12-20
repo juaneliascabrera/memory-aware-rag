@@ -1,0 +1,21 @@
+{
+  "question_id": "0ddfec37",
+  "question": "How many autographed baseballs have I added to my collection in the first three months of collection?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_a22b654d_2",
+    "answer_a22b654d_1",
+    "f2199726_2",
+    "a8a0db2b_1",
+    "2878574e"
+  ],
+  "retrieved_scores": [
+    36.306659970516066,
+    28.838358727096832,
+    18.128576978921064,
+    17.673369870813687,
+    17.54094102919249
+  ],
+  "method": "bm25",
+  "k": 5
+}

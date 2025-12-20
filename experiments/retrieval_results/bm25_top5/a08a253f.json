@@ -1,0 +1,21 @@
+{
+  "question_id": "a08a253f",
+  "question": "How many days a week do I attend fitness classes?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_47152166_1",
+    "ultrachat_242484",
+    "answer_47152166_2",
+    "798fa5f2",
+    "6e5130ed_2"
+  ],
+  "retrieved_scores": [
+    19.422426444707032,
+    14.332747431800382,
+    12.623413981444031,
+    12.409022104284187,
+    12.218720690191807
+  ],
+  "method": "bm25",
+  "k": 5
+}

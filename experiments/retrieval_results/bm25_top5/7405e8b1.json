@@ -1,0 +1,21 @@
+{
+  "question_id": "7405e8b1",
+  "question": "Did I receive a higher percentage discount on my first order from HelloFresh, compared to my first UberEats order?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_80323f3f_1",
+    "answer_80323f3f_2",
+    "f2f2a606_3",
+    "c578da1f_1",
+    "a6b00510_4"
+  ],
+  "retrieved_scores": [
+    35.644330468283556,
+    33.233530602665894,
+    23.280960022980032,
+    22.114845550474865,
+    18.90004026345908
+  ],
+  "method": "bm25",
+  "k": 5
+}

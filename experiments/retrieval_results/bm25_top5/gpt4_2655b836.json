@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_2655b836",
+  "question": "What was the first issue I had with my new car after its first service?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_4be1b6b4_3",
+    "answer_4be1b6b4_2",
+    "answer_4be1b6b4_1",
+    "d8a1af6b_4",
+    "9e05d9a0"
+  ],
+  "retrieved_scores": [
+    20.16717859282924,
+    20.116385666129016,
+    16.821017792582175,
+    15.6558449092524,
+    13.383192533088808
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "2133c1b5",
+  "question": "How long have I been living in my current apartment in Harajuku?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_52382508_2",
+    "answer_52382508_1",
+    "8ca0085a_1",
+    "ultrachat_354956",
+    "1126be1e_2"
+  ],
+  "retrieved_scores": [
+    18.442051156487327,
+    15.421001623811947,
+    14.430002298332454,
+    12.576122917143907,
+    12.536178827269124
+  ],
+  "method": "bm25",
+  "k": 5
+}

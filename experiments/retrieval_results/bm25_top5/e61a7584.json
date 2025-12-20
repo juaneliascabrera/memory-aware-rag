@@ -1,0 +1,21 @@
+{
+  "question_id": "e61a7584",
+  "question": "How long have I had my cat, Luna?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_f25c32f5_2",
+    "answer_f25c32f5_1",
+    "82159da4_1",
+    "sharegpt_o0MporM_0",
+    "51add7da_1"
+  ],
+  "retrieved_scores": [
+    19.760985550736468,
+    18.832799984805987,
+    7.1371953231834855,
+    6.984959879660765,
+    6.941322324721428
+  ],
+  "method": "bm25",
+  "k": 5
+}

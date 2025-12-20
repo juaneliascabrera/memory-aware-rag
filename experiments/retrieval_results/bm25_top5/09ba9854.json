@@ -1,0 +1,21 @@
+{
+  "question_id": "09ba9854",
+  "question": "How much will I save by taking the train from the airport to my hotel instead of a taxi?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_96c743d0_1",
+    "answer_96c743d0_2",
+    "ae32e467_2",
+    "df963ea2_1",
+    "864a563d_3"
+  ],
+  "retrieved_scores": [
+    45.72131329705167,
+    43.14156615037087,
+    22.507623925544788,
+    21.38339810395989,
+    20.73627872141955
+  ],
+  "method": "bm25",
+  "k": 5
+}

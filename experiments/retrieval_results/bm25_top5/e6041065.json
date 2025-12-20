@@ -1,0 +1,21 @@
+{
+  "question_id": "e6041065",
+  "question": "What percentage of packed shoes did I wear on my last trip?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_4eb6d671_1",
+    "answer_4eb6d671_2",
+    "bdcee74e_3",
+    "b73a4d04_1",
+    "d79173aa_1"
+  ],
+  "retrieved_scores": [
+    22.163220680774586,
+    21.860794432573133,
+    14.616100127642216,
+    13.264656237368449,
+    12.943100391881284
+  ],
+  "method": "bm25",
+  "k": 5
+}

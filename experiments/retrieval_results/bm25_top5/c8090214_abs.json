@@ -1,0 +1,21 @@
+{
+  "question_id": "c8090214_abs",
+  "question": "How many days before I bought my iPad did I attend the Holiday Market?",
+  "question_type": "abstention",
+  "retrieved_sessions": [
+    "answer_70dc7d08_abs_1",
+    "64c71782",
+    "ca3aa07f_1",
+    "f10be626",
+    "d4f02577_2"
+  ],
+  "retrieved_scores": [
+    18.222537507327715,
+    15.223817960943068,
+    15.149185093649965,
+    14.665654820923855,
+    14.181816862506583
+  ],
+  "method": "bm25",
+  "k": 5
+}

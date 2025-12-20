@@ -1,0 +1,21 @@
+{
+  "question_id": "c7cf7dfd",
+  "question": "I'm going back to our previous conversation about traditional Indian embroidery and tailoring techniques. Can you remind me of the name of that online store based in India that sells traditional Indian fabrics, threads, and embellishments?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_456407",
+    "c1e681e7_2",
+    "95cec590_1",
+    "8fa624b2_8",
+    "sharegpt_EeXTDjc_15"
+  ],
+  "retrieved_scores": [
+    97.26067779179888,
+    33.91297829685997,
+    32.80204954950036,
+    32.70338259329992,
+    32.642036872127115
+  ],
+  "method": "bm25",
+  "k": 5
+}

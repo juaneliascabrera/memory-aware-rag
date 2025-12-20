@@ -1,0 +1,21 @@
+{
+  "question_id": "5e1b23de",
+  "question": "How many months ago did I attend the photography workshop?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_c18d480b_1",
+    "1380576d_1",
+    "c3f945f3_1",
+    "c28aed33",
+    "ultrachat_153798"
+  ],
+  "retrieved_scores": [
+    12.205335845960468,
+    11.023106825928288,
+    10.935981887925884,
+    10.41852947145906,
+    9.956629454886999
+  ],
+  "method": "bm25",
+  "k": 5
+}

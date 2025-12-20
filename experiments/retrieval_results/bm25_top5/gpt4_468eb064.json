@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_468eb064",
+  "question": "Who did I meet with during the lunch last Tuesday?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "1d74a734",
+    "a2f0054f",
+    "sharegpt_0PLBHdX_15",
+    "ultrachat_337251",
+    "sharegpt_P54kbvt_0"
+  ],
+  "retrieved_scores": [
+    11.65473014484949,
+    10.88470563579124,
+    10.763288321004756,
+    10.297172581370177,
+    10.150095151915028
+  ],
+  "method": "bm25",
+  "k": 5
+}

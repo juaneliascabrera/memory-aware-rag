@@ -1,0 +1,21 @@
+{
+  "question_id": "92a0aa75",
+  "question": "How long have I been working in my current role?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_6cb8f792_2",
+    "fdf7e3e7",
+    "a5854a8d_2",
+    "ultrachat_178564",
+    "answer_6cb8f792_1"
+  ],
+  "retrieved_scores": [
+    11.514799625093188,
+    11.266738376046089,
+    10.799995122609062,
+    10.539283734894703,
+    10.422110596479918
+  ],
+  "method": "bm25",
+  "k": 5
+}

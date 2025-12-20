@@ -1,0 +1,21 @@
+{
+  "question_id": "ef66a6e5",
+  "question": "How many sports have I played competitively in the past?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "74c2d3a1_1",
+    "answer_f7fd1029_2",
+    "ultrachat_61361",
+    "48941fec_4",
+    "answer_f7fd1029_1"
+  ],
+  "retrieved_scores": [
+    13.603173257314925,
+    13.338925584974174,
+    10.77282572162731,
+    10.67291338640887,
+    9.466692186064723
+  ],
+  "method": "bm25",
+  "k": 5
+}

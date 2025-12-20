@@ -1,0 +1,21 @@
+{
+  "question_id": "6d550036",
+  "question": "How many projects have I led or am currently leading?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "2e4430d8_2",
+    "f6246b5f",
+    "dae3906e_2",
+    "answer_ec904b3c_1",
+    "a9981dc6_3"
+  ],
+  "retrieved_scores": [
+    12.650841669714508,
+    11.929566084861378,
+    11.187322130279098,
+    10.962384613397392,
+    10.729789886323571
+  ],
+  "method": "bm25",
+  "k": 5
+}

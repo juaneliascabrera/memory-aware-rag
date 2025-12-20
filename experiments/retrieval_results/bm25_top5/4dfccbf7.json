@@ -1,0 +1,21 @@
+{
+  "question_id": "4dfccbf7",
+  "question": "How many days had passed since I started taking ukulele lessons when I decided to take my acoustic guitar to the guitar tech for servicing?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_4bebc782_2",
+    "answer_4bebc782_1",
+    "36f8b380_1",
+    "ultrachat_373047",
+    "a5e69b52_1"
+  ],
+  "retrieved_scores": [
+    41.70163377183865,
+    39.62665911463551,
+    23.048263258310744,
+    21.565771858937854,
+    20.724590184232902
+  ],
+  "method": "bm25",
+  "k": 5
+}

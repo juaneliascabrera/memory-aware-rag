@@ -1,0 +1,21 @@
+{
+  "question_id": "f523d9fe",
+  "question": "I wanted to check back on our previous conversation about Netflix. I mentioned that I wanted to be able to access all seasons of old shows? Do you remember what show I used as an example, the one that only had the last season available?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_sharegpt_m2xJfjo_0",
+    "73f75ab4",
+    "debc34d7_1",
+    "193c23bd_1",
+    "22aa7cca_4"
+  ],
+  "retrieved_scores": [
+    71.33705757449316,
+    49.66590090675712,
+    48.111441663047934,
+    47.099863303335226,
+    46.05977123493182
+  ],
+  "method": "bm25",
+  "k": 5
+}

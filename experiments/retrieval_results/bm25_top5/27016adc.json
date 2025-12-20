@@ -1,0 +1,21 @@
+{
+  "question_id": "27016adc",
+  "question": "What percentage of the countryside property's price is the cost of the renovations I plan to do on my current house?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_a37bdf22_1",
+    "answer_a37bdf22_2",
+    "ff5e0db0_1",
+    "9f554b46_2",
+    "fa858208_2"
+  ],
+  "retrieved_scores": [
+    48.62724203271531,
+    38.189019717868376,
+    26.37553424066966,
+    26.16407729222996,
+    25.55785971237716
+  ],
+  "method": "bm25",
+  "k": 5
+}

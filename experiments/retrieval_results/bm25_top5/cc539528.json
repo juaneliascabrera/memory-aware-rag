@@ -1,0 +1,21 @@
+{
+  "question_id": "cc539528",
+  "question": "I wanted to follow up on our previous conversation about front-end and back-end development. Can you remind me of the specific back-end programming languages you recommended I learn?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_374124",
+    "18807892_4",
+    "sharegpt_0z277Yx_0",
+    "fe1faff9_1",
+    "8bd3814a_1"
+  ],
+  "retrieved_scores": [
+    49.740255233832414,
+    39.698481917304406,
+    30.644421805042274,
+    30.44401175497319,
+    29.301582299050374
+  ],
+  "method": "bm25",
+  "k": 5
+}

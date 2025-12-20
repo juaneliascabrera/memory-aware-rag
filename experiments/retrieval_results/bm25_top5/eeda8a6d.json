@@ -1,0 +1,21 @@
+{
+  "question_id": "eeda8a6d",
+  "question": "How many fish are there in total in both of my aquariums?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_3e5fea0e_2",
+    "sharegpt_PTZ2ime_0",
+    "answer_3e5fea0e_1",
+    "ea67b29e_1",
+    "91c71874_1"
+  ],
+  "retrieved_scores": [
+    17.64186013457346,
+    17.264059765785618,
+    16.94880859671444,
+    13.944756952661095,
+    12.840662942505846
+  ],
+  "method": "bm25",
+  "k": 5
+}

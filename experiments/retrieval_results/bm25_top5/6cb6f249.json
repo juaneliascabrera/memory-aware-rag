@@ -1,0 +1,21 @@
+{
+  "question_id": "6cb6f249",
+  "question": "How many days did I take social media breaks in total?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_a4204937_1",
+    "ultrachat_404221",
+    "answer_a4204937_2",
+    "f584ba36_2",
+    "67620dbc_2"
+  ],
+  "retrieved_scores": [
+    15.651454853443042,
+    13.748904459690001,
+    12.767193681524216,
+    10.482514894299817,
+    9.928020895619202
+  ],
+  "method": "bm25",
+  "k": 5
+}

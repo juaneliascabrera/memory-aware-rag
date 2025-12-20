@@ -1,0 +1,21 @@
+{
+  "question_id": "6ae235be",
+  "question": "I remember you told me about the refining processes at CITGO's three refineries earlier. Can you remind me what kind of processes are used at the Lake Charles Refinery?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_sharegpt_IUWQYGQ_0",
+    "61a91bc9_2",
+    "8e608aad",
+    "809cabca_1",
+    "ultrachat_82847"
+  ],
+  "retrieved_scores": [
+    67.23074247834661,
+    28.664851209246436,
+    27.487625258450272,
+    26.90869888239115,
+    26.755370604111587
+  ],
+  "method": "bm25",
+  "k": 5
+}

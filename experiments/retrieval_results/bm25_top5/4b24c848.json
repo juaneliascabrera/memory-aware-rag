@@ -1,0 +1,21 @@
+{
+  "question_id": "4b24c848",
+  "question": "How many tops have I bought from H&M so far?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_2cec623b_2",
+    "answer_2cec623b_1",
+    "1815d1b7",
+    "d0c1453b_1",
+    "d38e5b38"
+  ],
+  "retrieved_scores": [
+    20.12677468211244,
+    20.00820519381044,
+    16.332430172247772,
+    11.29091805228576,
+    10.307714233329499
+  ],
+  "method": "bm25",
+  "k": 5
+}

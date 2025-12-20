@@ -1,0 +1,21 @@
+{
+  "question_id": "0bb5a684",
+  "question": "How many days before the team meeting I was preparing for did I attend the workshop on 'Effective Communication in the Workplace'?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_e936197f_1",
+    "answer_e936197f_2",
+    "826d51da_3",
+    "3c8e7c0e_3",
+    "1a14d6cb_1"
+  ],
+  "retrieved_scores": [
+    42.433880501916775,
+    28.691924244291343,
+    28.114560854240594,
+    26.566723395376073,
+    22.541054714622284
+  ],
+  "method": "bm25",
+  "k": 5
+}

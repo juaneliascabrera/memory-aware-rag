@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_b5700ca9",
+  "question": "How many days ago did I attend the Maundy Thursday service at the Episcopal Church?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_a17423e7_1",
+    "33bdd89a_1",
+    "a53c7542_1",
+    "5053474c_2",
+    "ultrachat_46958"
+  ],
+  "retrieved_scores": [
+    32.80791161082206,
+    15.753052743838634,
+    12.02998586525934,
+    11.456607131111646,
+    10.980308393338369
+  ],
+  "method": "bm25",
+  "k": 5
+}

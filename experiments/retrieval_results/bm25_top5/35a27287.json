@@ -1,0 +1,21 @@
+{
+  "question_id": "35a27287",
+  "question": "Can you recommend some interesting cultural events happening around me this weekend?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "answer_9b182436",
+    "880ee13e",
+    "465f0d1b_1",
+    "ultrachat_267380",
+    "a98ff421_1"
+  ],
+  "retrieved_scores": [
+    16.576086022341894,
+    16.116210976201344,
+    12.746566954900057,
+    12.659643727794485,
+    11.621813306314277
+  ],
+  "method": "bm25",
+  "k": 5
+}

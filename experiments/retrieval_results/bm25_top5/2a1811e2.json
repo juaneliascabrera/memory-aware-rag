@@ -1,0 +1,21 @@
+{
+  "question_id": "2a1811e2",
+  "question": "How many days had passed between the Hindu festival of Holi and the Sunday mass at St. Mary's Church?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_1cc3cd0c_2",
+    "answer_1cc3cd0c_1",
+    "b0e040c1",
+    "e9fb10e7_1",
+    "ultrachat_187883"
+  ],
+  "retrieved_scores": [
+    37.716694565973896,
+    34.313375606816535,
+    17.695317005527315,
+    17.18125973384569,
+    16.47516854866752
+  ],
+  "method": "bm25",
+  "k": 5
+}

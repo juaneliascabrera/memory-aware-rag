@@ -1,0 +1,21 @@
+{
+  "question_id": "3fe836c9",
+  "question": "How much more was the pre-approval amount than the final sale price of the house?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_1bb63ea5_1",
+    "answer_1bb63ea5_2",
+    "sharegpt_2xK3jjf_0",
+    "c81897cd_2",
+    "e41b78c7_3"
+  ],
+  "retrieved_scores": [
+    24.410971190218927,
+    23.450851112592975,
+    17.128875467190383,
+    16.683731054950897,
+    16.004371664875084
+  ],
+  "method": "bm25",
+  "k": 5
+}

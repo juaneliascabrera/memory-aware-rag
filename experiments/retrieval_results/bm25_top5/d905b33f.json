@@ -1,0 +1,21 @@
+{
+  "question_id": "d905b33f",
+  "question": "What percentage discount did I get on the book from my favorite author?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_85a77c48_1",
+    "2d364fb0",
+    "8cfa91c3_2",
+    "answer_85a77c48_2",
+    "8b69d1ae"
+  ],
+  "retrieved_scores": [
+    23.111013721161974,
+    15.607381546364822,
+    14.595022957419589,
+    14.58443408421197,
+    14.100965817559082
+  ],
+  "method": "bm25",
+  "k": 5
+}

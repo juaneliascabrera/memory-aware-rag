@@ -1,0 +1,21 @@
+{
+  "question_id": "370a8ff4",
+  "question": "How many weeks had passed since I recovered from the flu when I went on my 10th jog outdoors?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_61d1be50_1",
+    "answer_61d1be50_2",
+    "sharegpt_JRQtEcd_115",
+    "sharegpt_UbMVpdp_93",
+    "cfde748a"
+  ],
+  "retrieved_scores": [
+    29.845531624657827,
+    25.19616059615604,
+    18.526519447049157,
+    16.471523145835945,
+    16.264883096343503
+  ],
+  "method": "bm25",
+  "k": 5
+}

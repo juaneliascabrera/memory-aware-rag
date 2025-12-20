@@ -1,0 +1,21 @@
+{
+  "question_id": "f4f1d8a4",
+  "question": "Who gave me a new stand mixer as a birthday gift?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_f5b33470",
+    "3aac691d_2",
+    "eb682e52_2",
+    "9614d065_1",
+    "ecb24dd8_1"
+  ],
+  "retrieved_scores": [
+    25.587447308895854,
+    16.569663565053524,
+    13.119976214467496,
+    10.837630314497618,
+    10.054764566426524
+  ],
+  "method": "bm25",
+  "k": 5
+}

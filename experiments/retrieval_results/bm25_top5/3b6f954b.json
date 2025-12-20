@@ -1,0 +1,21 @@
+{
+  "question_id": "3b6f954b",
+  "question": "Where did I attend for my study abroad program?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_94030872",
+    "c566edbb_3",
+    "f5f4b6f6_2",
+    "90b1c6d4_2",
+    "4ed9cd1b_1"
+  ],
+  "retrieved_scores": [
+    17.111598408807925,
+    10.23208872285586,
+    8.141354813435724,
+    8.137538115191706,
+    7.690637482705636
+  ],
+  "method": "bm25",
+  "k": 5
+}

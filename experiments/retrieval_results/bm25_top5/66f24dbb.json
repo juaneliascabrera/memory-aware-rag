@@ -1,0 +1,21 @@
+{
+  "question_id": "66f24dbb",
+  "question": "What did I buy for my sister's birthday gift?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_fea2e4d3",
+    "89452526_2",
+    "798e4ba3_2",
+    "8d46b8fa_1",
+    "ca3a4e4f_1"
+  ],
+  "retrieved_scores": [
+    31.509256936872234,
+    22.03038789650482,
+    10.35506778217275,
+    8.69803310619514,
+    8.563782649379553
+  ],
+  "method": "bm25",
+  "k": 5
+}

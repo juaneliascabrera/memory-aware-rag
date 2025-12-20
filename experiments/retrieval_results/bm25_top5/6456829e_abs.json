@@ -1,0 +1,21 @@
+{
+  "question_id": "6456829e_abs",
+  "question": "How many plants did I initially plant for tomatoes and chili peppers?",
+  "question_type": "abstention",
+  "retrieved_sessions": [
+    "answer_743f03a1_abs_1",
+    "b61cc91b_2",
+    "3d8d4828_2",
+    "d20bb5aa_1",
+    "ultrachat_567580"
+  ],
+  "retrieved_scores": [
+    27.783076451687887,
+    21.140048583726156,
+    20.223256163615154,
+    16.89775611613806,
+    14.305744061771335
+  ],
+  "method": "bm25",
+  "k": 5
+}

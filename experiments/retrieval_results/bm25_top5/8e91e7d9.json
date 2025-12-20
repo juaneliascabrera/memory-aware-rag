@@ -1,0 +1,21 @@
+{
+  "question_id": "8e91e7d9",
+  "question": "What is the total number of siblings I have?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "sharegpt_PZrBCF2_0",
+    "2f980ae0_2",
+    "sharegpt_8lpX5R7_19",
+    "ultrachat_147574",
+    "4e3da326_1"
+  ],
+  "retrieved_scores": [
+    14.926753664296069,
+    14.01639305457598,
+    13.82888141495641,
+    13.731198271235314,
+    12.956121612397842
+  ],
+  "method": "bm25",
+  "k": 5
+}

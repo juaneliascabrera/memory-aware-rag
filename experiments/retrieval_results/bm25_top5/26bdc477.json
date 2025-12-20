@@ -1,0 +1,21 @@
+{
+  "question_id": "26bdc477",
+  "question": "How many trips have I taken my Canon EOS 80D camera on?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_f762ad8d_1",
+    "answer_f762ad8d_2",
+    "37b3c75d",
+    "551eae69_1",
+    "27ce9f13_2"
+  ],
+  "retrieved_scores": [
+    35.12878372421531,
+    27.768279860890782,
+    11.429963805780925,
+    10.502113807879962,
+    9.325410431630889
+  ],
+  "method": "bm25",
+  "k": 5
+}

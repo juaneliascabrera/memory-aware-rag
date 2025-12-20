@@ -1,0 +1,21 @@
+{
+  "question_id": "dfde3500",
+  "question": "What day of the week did I meet with my previous language exchange tutor Juan?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_35d6c0be_1",
+    "answer_35d6c0be_2",
+    "86e218e3_2",
+    "134127c2_2",
+    "90342357_3"
+  ],
+  "retrieved_scores": [
+    34.186943889027816,
+    17.229287838405273,
+    14.407585705980317,
+    14.355160161603797,
+    13.372536178779468
+  ],
+  "method": "bm25",
+  "k": 5
+}

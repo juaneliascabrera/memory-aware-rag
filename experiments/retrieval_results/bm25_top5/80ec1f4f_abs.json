@@ -1,0 +1,21 @@
+{
+  "question_id": "80ec1f4f_abs",
+  "question": "How many different museums or galleries did I visit in December?",
+  "question_type": "abstention",
+  "retrieved_sessions": [
+    "answer_990c8992_abs_2",
+    "answer_990c8992_abs_1",
+    "answer_990c8992_abs_3",
+    "sharegpt_7uSzi6w_0",
+    "ultrachat_187094"
+  ],
+  "retrieved_scores": [
+    19.785252883617904,
+    19.267288896108724,
+    18.58442854609984,
+    9.22634796938239,
+    9.143579627663996
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "37d43f65",
+  "question": "How much RAM did I upgrade my laptop to?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_55161935",
+    "3dcf1e0b_2",
+    "ultrachat_370801",
+    "ultrachat_525148",
+    "4050ebff_5"
+  ],
+  "retrieved_scores": [
+    26.830906657910845,
+    9.137313427637531,
+    8.087963921496627,
+    7.960000570015929,
+    7.957976987571096
+  ],
+  "method": "bm25",
+  "k": 5
+}

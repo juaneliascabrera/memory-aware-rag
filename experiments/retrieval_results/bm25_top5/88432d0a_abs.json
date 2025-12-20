@@ -1,0 +1,21 @@
+{
+  "question_id": "88432d0a_abs",
+  "question": "How many times did I bake egg tarts in the past two weeks?",
+  "question_type": "abstention",
+  "retrieved_sessions": [
+    "92ad6d8f_2",
+    "answer_733e443a_abs_3",
+    "4eff1baa",
+    "answer_733e443a_abs_2",
+    "31ca5871_1"
+  ],
+  "retrieved_scores": [
+    13.490989192058148,
+    11.987350777406066,
+    11.92245332928066,
+    11.792928349053255,
+    11.71979813893576
+  ],
+  "method": "bm25",
+  "k": 5
+}

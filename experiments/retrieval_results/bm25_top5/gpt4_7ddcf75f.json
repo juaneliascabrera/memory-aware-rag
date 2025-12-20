@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_7ddcf75f",
+  "question": "How many days ago did I go on a whitewater rafting trip in the Oregon mountains?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_ad8a76cb_1",
+    "sharegpt_ZUxBndS_26",
+    "07e6a3bd_1",
+    "8c652eb0_2",
+    "79d122f0"
+  ],
+  "retrieved_scores": [
+    34.07027610949102,
+    20.016866918551482,
+    16.708901129938578,
+    15.246954855113872,
+    14.942719943303665
+  ],
+  "method": "bm25",
+  "k": 5
+}

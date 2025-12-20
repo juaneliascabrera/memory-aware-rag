@@ -1,0 +1,21 @@
+{
+  "question_id": "f685340e",
+  "question": "How often do I play tennis with my friends at the local park previously? How often do I play now?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_25df025b_1",
+    "answer_25df025b_2",
+    "e7dcd5df",
+    "e862f726_1",
+    "bb2180e9_2"
+  ],
+  "retrieved_scores": [
+    29.888248016693527,
+    29.160546851347696,
+    20.906982593917938,
+    18.930220351618786,
+    18.883711445363673
+  ],
+  "method": "bm25",
+  "k": 5
+}

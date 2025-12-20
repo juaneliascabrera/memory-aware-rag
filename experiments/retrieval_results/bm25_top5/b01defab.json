@@ -1,0 +1,21 @@
+{
+  "question_id": "b01defab",
+  "question": "Did I finish reading 'The Nightingale' by Kristin Hannah?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_8c0712af_2",
+    "answer_8c0712af_1",
+    "fc69fd44_7",
+    "9aa07e25",
+    "1dcfb9a0_1"
+  ],
+  "retrieved_scores": [
+    29.067850140052215,
+    28.57814650869498,
+    9.942400555545385,
+    8.891678461223435,
+    8.51122016992607
+  ],
+  "method": "bm25",
+  "k": 5
+}

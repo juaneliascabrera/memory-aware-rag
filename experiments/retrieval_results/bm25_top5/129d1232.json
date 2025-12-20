@@ -1,0 +1,21 @@
+{
+  "question_id": "129d1232",
+  "question": "How much money did I raise in total through all the charity events I participated in?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_1de862d6_2",
+    "sharegpt_De0lanR_0",
+    "answer_1de862d6_1",
+    "69a9211c_2",
+    "bf3aebdb_1"
+  ],
+  "retrieved_scores": [
+    24.444858279942764,
+    19.040144154675648,
+    18.063949421481638,
+    18.045337064906906,
+    15.735030951733554
+  ],
+  "method": "bm25",
+  "k": 5
+}

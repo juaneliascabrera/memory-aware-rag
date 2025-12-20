@@ -1,0 +1,21 @@
+{
+  "question_id": "41275add",
+  "question": "I wanted to follow up on our previous conversation about YouTube videos for workplace posture. Can you remind me of the Mayo Clinic video you recommended?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_sharegpt_81riySf_0",
+    "5b83c26e_3",
+    "a68db5db_1",
+    "b3619c2c",
+    "33a39aa7_1"
+  ],
+  "retrieved_scores": [
+    54.32997173901682,
+    30.602358204161362,
+    28.86968971335628,
+    27.78228899828331,
+    27.507944126126738
+  ],
+  "method": "bm25",
+  "k": 5
+}

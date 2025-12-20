@@ -1,0 +1,21 @@
+{
+  "question_id": "54026fce",
+  "question": "I've been thinking about ways to stay connected with my colleagues. Any suggestions?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "answer_f7b22c66",
+    "ba4db050_1",
+    "518d26d3_6",
+    "ultrachat_166270",
+    "ultrachat_201130"
+  ],
+  "retrieved_scores": [
+    23.986674381052776,
+    18.043185749346193,
+    15.033466499443945,
+    14.971683904576816,
+    14.86301669679673
+  ],
+  "method": "bm25",
+  "k": 5
+}

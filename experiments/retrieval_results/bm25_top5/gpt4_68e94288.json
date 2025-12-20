@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_68e94288",
+  "question": "What was the social media activity I participated 5 days ago?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "4c49e37f",
+    "c99dcd81",
+    "answer_9793daa4_1",
+    "128f4e4d_2",
+    "813ebecd_1"
+  ],
+  "retrieved_scores": [
+    16.00886510271982,
+    12.872961152422649,
+    12.747146359533495,
+    11.983546638539515,
+    10.65966018272309
+  ],
+  "method": "bm25",
+  "k": 5
+}

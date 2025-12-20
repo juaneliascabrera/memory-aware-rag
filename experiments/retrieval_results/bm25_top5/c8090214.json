@@ -1,0 +1,21 @@
+{
+  "question_id": "c8090214",
+  "question": "How many days before I bought the iPhone 13 Pro did I attend the Holiday Market?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_70dc7d08_2",
+    "answer_70dc7d08_1",
+    "sharegpt_xOzzaof_0",
+    "d6c6dadf",
+    "162ad3bf_1"
+  ],
+  "retrieved_scores": [
+    24.57289142337617,
+    18.768954837745614,
+    15.98895046043099,
+    15.836789634581285,
+    14.753715414365825
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "c18a7dc8",
+  "question": "How many years older am I than when I graduated from college?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "5022812c",
+    "sharegpt_YPC6Oll_18",
+    "9d5a389d",
+    "f716720c_3",
+    "37141183"
+  ],
+  "retrieved_scores": [
+    13.492285957105981,
+    11.38155399660212,
+    10.68083522512007,
+    10.631503240959857,
+    10.050623928881558
+  ],
+  "method": "bm25",
+  "k": 5
+}

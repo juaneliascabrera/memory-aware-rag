@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_93f6379c",
+  "question": "Which group did I join first, 'Page Turners' or 'Marketing Professionals'?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_544fe66c_2",
+    "answer_544fe66c_3",
+    "b8a688f6",
+    "1b9b2960_3",
+    "aee99715"
+  ],
+  "retrieved_scores": [
+    19.757015763999718,
+    17.21722864569153,
+    13.363880287795853,
+    9.836299045288992,
+    8.450452613844597
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "e4e14d04",
+  "question": "How long had I been a member of 'Book Lovers Unite' when I attended the meetup?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_cf425855_2",
+    "answer_cf425855_1",
+    "ffc627f2",
+    "ultrachat_325291",
+    "5944b36a_1"
+  ],
+  "retrieved_scores": [
+    31.897609329982693,
+    26.231923860395703,
+    17.349385619983593,
+    16.808838894359855,
+    16.50252427966465
+  ],
+  "method": "bm25",
+  "k": 5
+}

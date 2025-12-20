@@ -1,0 +1,21 @@
+{
+  "question_id": "031748ae_abs",
+  "question": "How many engineers do I lead when I just started my new role as Software Engineer Manager?",
+  "question_type": "abstention",
+  "retrieved_sessions": [
+    "answer_8748f791_abs_1",
+    "answer_8748f791_abs_2",
+    "sharegpt_EX0p0tj_19",
+    "ca8286f2",
+    "ultrachat_341706"
+  ],
+  "retrieved_scores": [
+    32.74888203867303,
+    23.393931797505545,
+    20.198638806536756,
+    15.185810288555064,
+    15.060778349699309
+  ],
+  "method": "bm25",
+  "k": 5
+}

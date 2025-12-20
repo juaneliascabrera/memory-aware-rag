@@ -1,0 +1,21 @@
+{
+  "question_id": "af8d2e46",
+  "question": "How many shirts did I pack for my 5-day trip to Costa Rica?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_82a04f59",
+    "73d5f10c",
+    "32a67b35",
+    "d5a6f455_2",
+    "13047a02"
+  ],
+  "retrieved_scores": [
+    37.817630264310274,
+    16.489011522477213,
+    13.50178662486842,
+    13.228945168011983,
+    13.157749079554765
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "5a4f22c0",
+  "question": "What company is Rachel, an old colleague from my previous company, currently working at?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_b0f3dfff_1",
+    "answer_b0f3dfff_2",
+    "sharegpt_IMtsj65_0",
+    "sharegpt_1ZrnYv8_23",
+    "af778ece_1"
+  ],
+  "retrieved_scores": [
+    30.142096586816855,
+    29.164247108660554,
+    17.018286953297114,
+    13.96533796979596,
+    13.20081192973044
+  ],
+  "method": "bm25",
+  "k": 5
+}

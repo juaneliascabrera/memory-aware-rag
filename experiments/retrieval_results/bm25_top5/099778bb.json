@@ -1,0 +1,21 @@
+{
+  "question_id": "099778bb",
+  "question": "What percentage of leadership positions do women hold in the my company?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_80d6d664_1",
+    "answer_80d6d664_2",
+    "b1793bba",
+    "47103d08",
+    "33877350_2"
+  ],
+  "retrieved_scores": [
+    36.86137021903059,
+    33.13645238923125,
+    14.866391846364914,
+    12.70735236481514,
+    12.404073667977327
+  ],
+  "method": "bm25",
+  "k": 5
+}

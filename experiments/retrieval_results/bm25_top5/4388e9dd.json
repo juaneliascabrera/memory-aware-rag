@@ -1,0 +1,21 @@
+{
+  "question_id": "4388e9dd",
+  "question": "I was going through our previous chat and I was wondering, what was Andy wearing in the script you wrote for the comedy movie scene?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_sharegpt_qTi81nS_0",
+    "cfd21744_2",
+    "1ebd753f_2",
+    "3197d998_7",
+    "sharegpt_UM2wLW9_0"
+  ],
+  "retrieved_scores": [
+    44.53524528576619,
+    24.097388243941186,
+    22.358451486326203,
+    20.97396250336473,
+    19.44517336692657
+  ],
+  "method": "bm25",
+  "k": 5
+}

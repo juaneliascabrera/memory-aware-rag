@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_2f56ae70",
+  "question": "Which streaming service did I start using most recently?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "3aac691d_2",
+    "answer_7a36e820_2",
+    "answer_7a36e820_3",
+    "answer_7a36e820_1",
+    "ultrachat_159439"
+  ],
+  "retrieved_scores": [
+    10.58137755122699,
+    10.096408822947652,
+    7.477288346066759,
+    6.84676713461553,
+    6.21922302267411
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_2f8be40d",
+  "question": "How many weddings have I attended in this year?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "ultrachat_217382",
+    "sharegpt_L64rHOA_0",
+    "answer_e7b0637e_2",
+    "acda6a4e_4",
+    "answer_e7b0637e_1"
+  ],
+  "retrieved_scores": [
+    12.38043913759214,
+    11.900855400294105,
+    11.708568588256679,
+    11.64913881597795,
+    11.3011326366726
+  ],
+  "method": "bm25",
+  "k": 5
+}

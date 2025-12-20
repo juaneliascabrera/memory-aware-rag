@@ -1,0 +1,21 @@
+{
+  "question_id": "51c32626",
+  "question": "When did I submit my research paper on sentiment analysis?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_58820c75_1",
+    "answer_58820c75_2",
+    "c051e740_2",
+    "sharegpt_hzwc0HI_13",
+    "8b726eee_2"
+  ],
+  "retrieved_scores": [
+    19.83391118904475,
+    19.361417275559425,
+    11.800913568289461,
+    9.168214529792536,
+    9.007353892131665
+  ],
+  "method": "bm25",
+  "k": 5
+}

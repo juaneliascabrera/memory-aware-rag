@@ -1,0 +1,21 @@
+{
+  "question_id": "0f05491a",
+  "question": "How many stars do I need to reach the gold level on my Starbucks Rewards app?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_d6d2eba8_1",
+    "answer_d6d2eba8_2",
+    "27aba903_2",
+    "0c260a71_3",
+    "9260a72d"
+  ],
+  "retrieved_scores": [
+    41.08430743624486,
+    40.55317587220693,
+    23.24385064120982,
+    20.60908067032611,
+    15.864907328152919
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "184da446",
+  "question": "How many pages of 'A Short History of Nearly Everything' have I read so far?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_e2f4f947_2",
+    "bf633415_2",
+    "answer_e2f4f947_1",
+    "341a737e",
+    "ultrachat_116760"
+  ],
+  "retrieved_scores": [
+    25.334766791131873,
+    22.920899838787673,
+    18.467615261612234,
+    17.319004118465852,
+    16.231897886393735
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "488d3006",
+  "question": "I'm planning to go back to the Natural Park of Moncayo mountain in Arag\u00f3n and I was wondering, what was the name of that hiking trail you recommended that takes you through the park's most stunning landscapes and offers panoramic views of the surrounding mountainside?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_275993",
+    "ce19df54_3",
+    "a68090b0_2",
+    "9a57d65b",
+    "82b82901"
+  ],
+  "retrieved_scores": [
+    106.13455714168097,
+    74.84462568351378,
+    64.5014328353166,
+    57.15584613789126,
+    52.67872117712877
+  ],
+  "method": "bm25",
+  "k": 5
+}

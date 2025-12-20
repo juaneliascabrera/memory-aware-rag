@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_f420262c",
+  "question": "What is the order of airlines I flew with from earliest to latest before today?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_d8a1af6b_3",
+    "answer_d8a1af6b_4",
+    "sharegpt_B0riiep_0",
+    "answer_d8a1af6b_2",
+    "answer_d8a1af6b_5"
+  ],
+  "retrieved_scores": [
+    20.436900938623946,
+    20.13753790717054,
+    18.916075801941517,
+    18.518462209142335,
+    17.886008727595055
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "2311e44b",
+  "question": "How many pages do I have left to read in 'The Nightingale'?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_bf633415_2",
+    "answer_bf633415_1",
+    "ultrachat_360918",
+    "5854eebc_2",
+    "b5b8f8f9_3"
+  ],
+  "retrieved_scores": [
+    29.531949275581262,
+    27.71407710921632,
+    14.577357501294482,
+    14.123523162462059,
+    14.013134440104642
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_194be4b3",
+  "question": "How many musical instruments do I currently own?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_3826dc55_5",
+    "answer_3826dc55_4",
+    "ultrachat_58180",
+    "ultrachat_474217",
+    "407031a9_2"
+  ],
+  "retrieved_scores": [
+    12.397226102554223,
+    10.999769263438369,
+    9.752139613588442,
+    7.994181525968125,
+    7.147517024205454
+  ],
+  "method": "bm25",
+  "k": 5
+}

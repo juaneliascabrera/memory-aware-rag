@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_213fd887",
+  "question": "Which event did I participate in first, the volleyball league or the charity 5K run to raise money for a local children's hospital?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_53582e7e_2",
+    "answer_53582e7e_1",
+    "9bdbfc62_2",
+    "3b0a7d5d_1",
+    "8aa17385"
+  ],
+  "retrieved_scores": [
+    52.75754751826857,
+    30.748829524601653,
+    25.58393473105498,
+    23.337905449330407,
+    22.438720432664255
+  ],
+  "method": "bm25",
+  "k": 5
+}

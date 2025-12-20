@@ -1,0 +1,21 @@
+{
+  "question_id": "7e00a6cb",
+  "question": "I'm planning my trip to Amsterdam again and I was wondering, what was the name of that hostel near the Red Light District that you recommended last time?",
+  "question_type": "single-session-assistant",
+  "retrieved_sessions": [
+    "answer_ultrachat_370515",
+    "4dd1ba8d_2",
+    "24f78a31_2",
+    "b7dca8f1_1",
+    "2fa50779_5"
+  ],
+  "retrieved_scores": [
+    50.236777607254595,
+    42.124199339712426,
+    35.56060592226158,
+    33.95679777498523,
+    33.79832169128614
+  ],
+  "method": "bm25",
+  "k": 5
+}

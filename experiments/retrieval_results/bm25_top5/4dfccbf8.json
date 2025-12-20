@@ -1,0 +1,21 @@
+{
+  "question_id": "4dfccbf8",
+  "question": "What did I do with Rachel on the Wednesday two months ago?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_4bebc783_1",
+    "sharegpt_3D3oQC0_213",
+    "edd89480_1",
+    "7db28e68_1",
+    "a63ad8e3_3"
+  ],
+  "retrieved_scores": [
+    15.606454651815621,
+    14.984259092050891,
+    13.927685633182584,
+    12.705657335357392,
+    12.209665599517166
+  ],
+  "method": "bm25",
+  "k": 5
+}

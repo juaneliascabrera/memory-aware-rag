@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_7abb270c",
+  "question": "What is the order of the six museums I visited from earliest to latest?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_7093d898_1",
+    "answer_7093d898_6",
+    "answer_7093d898_2",
+    "5808284e",
+    "ultrachat_560932"
+  ],
+  "retrieved_scores": [
+    19.869469837806474,
+    18.411279620639625,
+    16.193379796318354,
+    15.9172270657103,
+    15.791226673021075
+  ],
+  "method": "bm25",
+  "k": 5
+}

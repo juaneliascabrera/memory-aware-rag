@@ -1,0 +1,21 @@
+{
+  "question_id": "5d3d2817",
+  "question": "What was my previous occupation?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "sharegpt_ipLglky_48",
+    "answer_235eb6fb",
+    "670ca40e",
+    "sharegpt_8zsFRKh_0",
+    "e93efd9a_1"
+  ],
+  "retrieved_scores": [
+    9.349426130318172,
+    6.33182022491915,
+    5.597237320091379,
+    5.009205066836822,
+    4.595787071783609
+  ],
+  "method": "bm25",
+  "k": 5
+}

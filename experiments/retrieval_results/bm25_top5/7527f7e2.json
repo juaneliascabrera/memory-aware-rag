@@ -1,0 +1,21 @@
+{
+  "question_id": "7527f7e2",
+  "question": "How much did I spend on a designer handbag?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_7cb94507",
+    "sharegpt_cRrfdsc_0",
+    "864a563d_3",
+    "sharegpt_bTDMt3m_0",
+    "ultrachat_62919"
+  ],
+  "retrieved_scores": [
+    20.84203884636967,
+    11.212313779915458,
+    10.947474674479585,
+    10.26827573911822,
+    9.753863701095877
+  ],
+  "method": "bm25",
+  "k": 5
+}

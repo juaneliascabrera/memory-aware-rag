@@ -1,0 +1,21 @@
+{
+  "question_id": "9a707b81",
+  "question": "How many days ago did I attend a baking class at a local culinary school when I made my friend's birthday cake?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_dba89487_2",
+    "5a13d047_1",
+    "4abbeb2a_2",
+    "answer_dba89487_1",
+    "990f3ef9_6"
+  ],
+  "retrieved_scores": [
+    28.365718510944813,
+    26.985136970943213,
+    26.82905331029148,
+    24.90815674981986,
+    22.20866317044192
+  ],
+  "method": "bm25",
+  "k": 5
+}

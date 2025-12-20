@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_ab202e7f",
+  "question": "How many kitchen items did I replace or fix?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_728deb4d_4",
+    "2d6f97aa_2",
+    "answer_728deb4d_2",
+    "answer_728deb4d_5",
+    "cdcbdf13"
+  ],
+  "retrieved_scores": [
+    11.974405329971281,
+    10.108888762093605,
+    9.54998209369101,
+    9.443891156054567,
+    8.975510597710764
+  ],
+  "method": "bm25",
+  "k": 5
+}

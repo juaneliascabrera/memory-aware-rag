@@ -1,0 +1,21 @@
+{
+  "question_id": "8a137a7f",
+  "question": "What type of bulb did I replace in my bedside lamp?",
+  "question_type": "single-session-user",
+  "retrieved_sessions": [
+    "answer_15d63a22",
+    "77908e43_1",
+    "20507d15_2",
+    "ultrachat_90882",
+    "ultrachat_186116"
+  ],
+  "retrieved_scores": [
+    27.954257224419713,
+    15.325594525559447,
+    10.876185766288819,
+    10.486111080831156,
+    10.392988030600613
+  ],
+  "method": "bm25",
+  "k": 5
+}

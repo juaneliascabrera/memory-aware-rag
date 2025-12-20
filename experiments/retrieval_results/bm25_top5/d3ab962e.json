@@ -1,0 +1,21 @@
+{
+  "question_id": "d3ab962e",
+  "question": "What is the total distance of the hikes I did on two consecutive weekends?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "aa235649_1",
+    "ultrachat_564044",
+    "sharegpt_6fTnCnw_49",
+    "3329e5e8_1",
+    "ultrachat_164834"
+  ],
+  "retrieved_scores": [
+    15.900037569147882,
+    15.757865541240495,
+    15.372514561616358,
+    15.297953529308078,
+    14.9037110618588
+  ],
+  "method": "bm25",
+  "k": 5
+}

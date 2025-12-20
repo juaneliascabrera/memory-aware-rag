@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_5438fa52",
+  "question": "Which event happened first, my attendance at a cultural festival or the start of my Spanish classes?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_b10f3828_2",
+    "ab8dce45",
+    "a8e24e22",
+    "answer_b10f3828_1",
+    "ultrachat_39637"
+  ],
+  "retrieved_scores": [
+    26.118415002065312,
+    21.904951618937936,
+    21.80308932622274,
+    18.224445199956214,
+    17.759936000798003
+  ],
+  "method": "bm25",
+  "k": 5
+}

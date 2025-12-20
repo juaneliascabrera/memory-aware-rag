@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_31ff4165",
+  "question": "How many health-related devices do I use in a day?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_02b63d04_1",
+    "answer_02b63d04_3",
+    "e2393b63_2",
+    "6aa87dc3",
+    "answer_02b63d04_5"
+  ],
+  "retrieved_scores": [
+    17.642597391600553,
+    15.1138871833314,
+    13.408795855147929,
+    12.72545632239647,
+    12.441288242178315
+  ],
+  "method": "bm25",
+  "k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "852ce960",
+  "question": "What was the amount I was pre-approved for when I got my mortgage from Wells Fargo?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_3a6f1e82_1",
+    "answer_3a6f1e82_2",
+    "010a28ab_3",
+    "a110c4dc_1",
+    "aaf22693"
+  ],
+  "retrieved_scores": [
+    32.89138793348284,
+    27.337931455166327,
+    16.77976451120631,
+    16.373600153164624,
+    15.973832113365273
+  ],
+  "method": "bm25",
+  "k": 5
+}

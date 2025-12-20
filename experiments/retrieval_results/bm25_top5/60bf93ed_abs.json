@@ -1,0 +1,21 @@
+{
+  "question_id": "60bf93ed_abs",
+  "question": "How many days did it take for my iPad case to arrive after I bought it?",
+  "question_type": "abstention",
+  "retrieved_sessions": [
+    "answer_e0956e0a_abs_1",
+    "36d5bbde_1",
+    "0944933f_1",
+    "a95d014c_3",
+    "c1e170f0_1"
+  ],
+  "retrieved_scores": [
+    17.389563559453926,
+    16.731636539320053,
+    16.210650474014166,
+    15.894204443032525,
+    15.659372211571961
+  ],
+  "method": "bm25",
+  "k": 5
+}

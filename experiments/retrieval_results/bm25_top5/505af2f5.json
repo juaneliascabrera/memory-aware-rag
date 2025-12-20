@@ -1,0 +1,21 @@
+{
+  "question_id": "505af2f5",
+  "question": "I was thinking of trying a new coffee creamer recipe. Any recommendations?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "answer_f3164f2c",
+    "4f2d6be4_2",
+    "7d52ca48_2",
+    "sharegpt_kjeGJvK_11",
+    "ebeb4c51"
+  ],
+  "retrieved_scores": [
+    18.457702149535695,
+    17.813081076071665,
+    16.702087037499208,
+    13.857905556207616,
+    13.537834363920702
+  ],
+  "method": "bm25",
+  "k": 5
+}

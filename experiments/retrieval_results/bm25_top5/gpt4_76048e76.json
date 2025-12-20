@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_76048e76",
+  "question": "Which vehicle did I take care of first in February, the bike or the car?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_b535969f_1",
+    "answer_b535969f_2",
+    "6a78e959_2",
+    "33630c9e_2",
+    "88e01130_1"
+  ],
+  "retrieved_scores": [
+    29.89502335428831,
+    28.9636971433557,
+    18.17368361208561,
+    18.134519630332463,
+    15.158140539097474
+  ],
+  "method": "bm25",
+  "k": 5
+}

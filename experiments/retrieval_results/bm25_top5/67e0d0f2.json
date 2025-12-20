@@ -1,0 +1,21 @@
+{
+  "question_id": "67e0d0f2",
+  "question": "What is the total number of online courses I've completed?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_3a5010af_1",
+    "98cd882c_1",
+    "answer_3a5010af_2",
+    "ultrachat_217333",
+    "6868c94f"
+  ],
+  "retrieved_scores": [
+    17.386108753978338,
+    14.008748582640552,
+    13.056409643337878,
+    13.03358282977666,
+    12.494817122035952
+  ],
+  "method": "bm25",
+  "k": 5
+}

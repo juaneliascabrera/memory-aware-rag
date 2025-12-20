@@ -1,0 +1,21 @@
+{
+  "question_id": "d24813b1",
+  "question": "I'm thinking of inviting my colleagues over for a small gathering. Any tips on what to bake?",
+  "question_type": "single-session-preference",
+  "retrieved_sessions": [
+    "084802f9_3",
+    "c2a34674_1",
+    "3124bb28_1",
+    "61a46ff7_3",
+    "answer_7c0ade93"
+  ],
+  "retrieved_scores": [
+    23.96045235078622,
+    23.835109945760866,
+    22.90273440349818,
+    21.225837821094625,
+    20.267204381723634
+  ],
+  "method": "bm25",
+  "k": 5
+}

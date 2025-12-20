@@ -1,0 +1,21 @@
+{
+  "question_id": "7024f17c",
+  "question": "How many hours of jogging and yoga did I do last week?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_a21f3697_2",
+    "answer_a21f3697_3",
+    "answer_a21f3697_1",
+    "d7281662_2",
+    "f8476198"
+  ],
+  "retrieved_scores": [
+    17.458302316718516,
+    16.63804433854363,
+    16.081047043089033,
+    14.757309276086728,
+    14.465177199977244
+  ],
+  "method": "bm25",
+  "k": 5
+}

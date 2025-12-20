@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_0b2f1d21",
+  "question": "Which event happened first, the purchase of the coffee maker or the malfunction of the stand mixer?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_c4e5d969_2",
+    "answer_c4e5d969_1",
+    "1cafd864_3",
+    "f31a0422_1",
+    "5260c678_2"
+  ],
+  "retrieved_scores": [
+    40.353612512857254,
+    25.839612650384048,
+    21.258059192064234,
+    19.454198285606104,
+    18.93581080557047
+  ],
+  "method": "bm25",
+  "k": 5
+}

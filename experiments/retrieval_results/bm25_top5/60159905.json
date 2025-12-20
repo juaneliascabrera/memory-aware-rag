@@ -1,0 +1,21 @@
+{
+  "question_id": "60159905",
+  "question": "How many dinner parties have I attended in the past month?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_75eca223_1",
+    "21f8f481_3",
+    "answer_75eca223_2",
+    "02eae87c_5",
+    "c351fa3b_1"
+  ],
+  "retrieved_scores": [
+    16.673957290613263,
+    12.237944080915405,
+    12.02279117676755,
+    11.94806125872033,
+    10.82558771459393
+  ],
+  "method": "bm25",
+  "k": 5
+}

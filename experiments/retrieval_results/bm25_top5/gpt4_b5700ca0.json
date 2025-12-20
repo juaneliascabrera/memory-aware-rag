@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_b5700ca0",
+  "question": "Where did I attend the religious activity last week?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "109e07e8_2",
+    "answer_a17423e8_1",
+    "sharegpt_FpTfRvR_0",
+    "5829ab38",
+    "534be93d_1"
+  ],
+  "retrieved_scores": [
+    13.266508087834325,
+    10.723825688171024,
+    10.594923709666315,
+    10.482591330633412,
+    9.861004814568378
+  ],
+  "method": "bm25",
+  "k": 5
+}

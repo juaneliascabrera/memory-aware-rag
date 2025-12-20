@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_4edbafa2",
+  "question": "What was the date on which I attended the first BBQ event in June?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "answer_0a00c163_2",
+    "answer_0a00c163_1",
+    "18c0af9c",
+    "22be78fc_2",
+    "sharegpt_TQNHiIB_12"
+  ],
+  "retrieved_scores": [
+    24.958152969528598,
+    19.757116866335267,
+    17.46248091903877,
+    16.15844847163957,
+    14.673452962511043
+  ],
+  "method": "bm25",
+  "k": 5
+}

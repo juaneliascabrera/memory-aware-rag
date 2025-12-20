@@ -1,0 +1,21 @@
+{
+  "question_id": "gpt4_b0863698",
+  "question": "How many days ago did I participate in the 5K charity run?",
+  "question_type": "temporal-reasoning",
+  "retrieved_sessions": [
+    "91e581ad_3",
+    "answer_550bb2d1_1",
+    "4a79d078_2",
+    "5b014f9b_1",
+    "65f6f130_1"
+  ],
+  "retrieved_scores": [
+    22.27996919658992,
+    20.758751905361947,
+    20.384113861831242,
+    15.921068200744932,
+    12.945507926855118
+  ],
+  "method": "bm25",
+  "k": 5
+}

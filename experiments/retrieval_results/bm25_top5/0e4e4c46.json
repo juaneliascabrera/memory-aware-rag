@@ -1,0 +1,21 @@
+{
+  "question_id": "0e4e4c46",
+  "question": "What is my current highest score in Ticket to Ride?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_f2f998c7_1",
+    "answer_f2f998c7_2",
+    "60876def_2",
+    "b42cbaf0_1",
+    "a0cc90de"
+  ],
+  "retrieved_scores": [
+    23.091733454981,
+    20.432929225691762,
+    13.594280332970566,
+    11.147592248596895,
+    9.444674420502928
+  ],
+  "method": "bm25",
+  "k": 5
+}

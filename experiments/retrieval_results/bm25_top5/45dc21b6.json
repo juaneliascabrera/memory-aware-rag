@@ -1,0 +1,21 @@
+{
+  "question_id": "45dc21b6",
+  "question": "How many of Emma's recipes have I tried out?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_07664d43_1",
+    "answer_07664d43_2",
+    "eb34144a_2",
+    "2f57c190_1",
+    "ultrachat_318979"
+  ],
+  "retrieved_scores": [
+    19.558764376248625,
+    17.825303152255888,
+    13.321213954877802,
+    13.101627246870507,
+    12.149627182864366
+  ],
+  "method": "bm25",
+  "k": 5
+}

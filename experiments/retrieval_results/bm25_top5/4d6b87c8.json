@@ -1,0 +1,21 @@
+{
+  "question_id": "4d6b87c8",
+  "question": "How many titles are currently on my to-watch list?",
+  "question_type": "knowledge-update",
+  "retrieved_sessions": [
+    "answer_766ab8da_2",
+    "answer_766ab8da_1",
+    "60d4332d",
+    "cffde796",
+    "1cf6c966_1"
+  ],
+  "retrieved_scores": [
+    22.398194476642825,
+    15.112906088640678,
+    10.23366847452015,
+    9.920447041735702,
+    9.430598784427367
+  ],
+  "method": "bm25",
+  "k": 5
+}

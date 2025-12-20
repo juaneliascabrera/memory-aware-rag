@@ -1,0 +1,21 @@
+{
+  "question_id": "edced276",
+  "question": "How many days did I spend in total traveling in Hawaii and in New York City?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_60e8941a_2",
+    "1da409cd_1",
+    "answer_60e8941a_1",
+    "726fa34a_1",
+    "59a6150d_3"
+  ],
+  "retrieved_scores": [
+    31.064815500940163,
+    22.38257672697055,
+    21.90560170353265,
+    18.640526131946856,
+    18.490689970978377
+  ],
+  "method": "bm25",
+  "k": 5
+}

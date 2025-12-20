@@ -1,0 +1,21 @@
+{
+  "question_id": "0100672e",
+  "question": "How much did I spend on each coffee mug for my coworkers?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "answer_35c9798c_2",
+    "answer_35c9798c_1",
+    "a4b223a7_1",
+    "326e86e0_3",
+    "07313722_2"
+  ],
+  "retrieved_scores": [
+    25.549489977888477,
+    18.649730749637143,
+    12.503305066094535,
+    11.99410701913353,
+    11.988368268650095
+  ],
+  "method": "bm25",
+  "k": 5
+}

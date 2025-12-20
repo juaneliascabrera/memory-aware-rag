@@ -1,0 +1,21 @@
+{
+  "question_id": "157a136e",
+  "question": "How many years older is my grandma than me?",
+  "question_type": "multi-session",
+  "retrieved_sessions": [
+    "ultrachat_255132",
+    "answer_8de18468_2",
+    "ultrachat_3770",
+    "377f8fd9_4",
+    "ultrachat_58612"
+  ],
+  "retrieved_scores": [
+    13.908279254147454,
+    10.606418342853544,
+    9.297754569848054,
+    8.026279442236,
+    7.82320340094954
+  ],
+  "method": "bm25",
+  "k": 5
+}
