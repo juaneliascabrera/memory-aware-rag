@@ -4,21 +4,13 @@ import os
 import statistics
 from src.datasets.LongMemEvalDataset import LongMemEvalDataset
 
-def main():
-    parser = argparse.ArgumentParser(description="Evaluar métricas de Retrieval (Recall/Precision)")
-    parser.add_argument("--results-dir", type=str, required=True, help="Carpeta con los JSONs generados por main.py")
-    parser.add_argument("--dataset-set", type=str, default="longmemeval", help="El set usado (longmemeval, investigathon_evaluation)")
-    parser.add_argument("--k", type=int, default=5, help="El corte K para las métricas")
-    parser.add_argument("--output-file", type=str, help="Ruta del archivo para guardar el reporte (opcional)")
-    
-    args = parser.parse_args()
-
+def run_evaluation(results_dir, dataset_set="longmemeval", k=5, output_file=None):
     # 1. Cargar Ground Truth (Oracle)
-    print(f"Cargando Ground Truth (Oracle) para '{args.dataset_set}'...")
+    print(f"Cargando Ground Truth (Oracle) para '{dataset_set}'...")
     try:
         # Instanciamos el dataset en modo 'oracle'. 
         # En este modo, la lista 'sessions' de cada instancia contiene SOLO las sesiones relevantes.
-        oracle_dataset = LongMemEvalDataset(type="oracle", set=args.dataset_set)
+        oracle_dataset = LongMemEvalDataset(type="oracle", set=dataset_set)
     except ValueError as e:
         print(f"Error cargando dataset: {e}")
         print("Asegúrate de usar un set que tenga oracle disponible (ej. longmemeval, investigathon_evaluation).")
@@ -37,18 +29,18 @@ def main():
     print(f"Ground Truth cargado: {len(ground_truth_map)} preguntas indexadas.")
 
     # 2. Leer Resultados Generados
-    if not os.path.exists(args.results_dir):
-        print(f"No se encuentra el directorio de resultados: {args.results_dir}")
+    if not os.path.exists(results_dir):
+        print(f"No se encuentra el directorio de resultados: {results_dir}")
         return
 
-    result_files = [f for f in os.listdir(args.results_dir) if f.endswith(".json")]
-    print(f"Evaluando {len(result_files)} archivos de resultados en '{args.results_dir}'...")
+    result_files = [f for f in os.listdir(results_dir) if f.endswith(".json")]
+    print(f"Evaluando {len(result_files)} archivos de resultados en '{results_dir}'...")
 
     metrics_by_type = {}  # { "type_name": {"recalls": [], "precisions": []} }
     missing_in_oracle = 0
 
     for filename in result_files:
-        filepath = os.path.join(args.results_dir, filename)
+        filepath = os.path.join(results_dir, filename)
         with open(filepath, "r", encoding="utf-8") as f:
             result_data = json.load(f)
         
@@ -68,7 +60,7 @@ def main():
         q_type = gt_data["type"]
         
         # Cortamos en K (por si el archivo tiene más resultados guardados)
-        current_k_retrieved = retrieved_ids[:args.k]
+        current_k_retrieved = retrieved_ids[:k]
         
         # 3. Calcular Métricas
         # Intersección: Cuántas de las recuperadas están en las relevantes
@@ -78,7 +70,7 @@ def main():
         recall = hits / len(relevant_ids) if len(relevant_ids) > 0 else 0.0
         
         # Precision: Hits / K
-        precision = hits / args.k if args.k > 0 else 0.0
+        precision = hits / k if k > 0 else 0.0
         
         if q_type not in metrics_by_type:
             metrics_by_type[q_type] = {"recalls": [], "precisions": []}
@@ -89,7 +81,7 @@ def main():
     # 4. Reporte Final
     lines = []
     lines.append("\n" + "="*60)
-    lines.append(f"RESULTADOS DE EVALUACIÓN POR TIPO (K={args.k})")
+    lines.append(f"RESULTADOS DE EVALUACIÓN POR TIPO (K={k})")
     lines.append("="*60)
     lines.append(f"{'TIPO':<30} | {'RECALL':<10} | {'PRECISION':<10} | {'COUNT':<5}")
     lines.append("-" * 60)
@@ -117,11 +109,21 @@ def main():
     report_text = "\n".join(lines)
     print(report_text)
 
-    if args.output_file:
-        os.makedirs(os.path.dirname(args.output_file), exist_ok=True)
-        with open(args.output_file, "w", encoding="utf-8") as f:
+    if output_file:
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        with open(output_file, "w", encoding="utf-8") as f:
             f.write(report_text)
-        print(f"Reporte guardado en: {args.output_file}")
+        print(f"Reporte guardado en: {output_file}")
+
+def main():
+    parser = argparse.ArgumentParser(description="Evaluar métricas de Retrieval (Recall/Precision)")
+    parser.add_argument("--results-dir", type=str, required=True, help="Carpeta con los JSONs generados por main.py")
+    parser.add_argument("--dataset-set", type=str, default="longmemeval", help="El set usado (longmemeval, investigathon_evaluation)")
+    parser.add_argument("--k", type=int, default=5, help="El corte K para las métricas")
+    parser.add_argument("--output-file", type=str, help="Ruta del archivo para guardar el reporte (opcional)")
+    
+    args = parser.parse_args()
+    run_evaluation(args.results_dir, args.dataset_set, args.k, args.output_file)
 
 if __name__ == "__main__":
     main()

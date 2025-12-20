@@ -13,9 +13,9 @@ def simple_tokenize(text):
 
 def main():
     parser = argparse.ArgumentParser(description="BM25 Retrieval Baseline para LongMemEval")
-    parser.add_argument("--output-dir", type=str, default="experiments/retrieval_results/bm25_top5", help="Directorio donde guardar los JSONs")
+    parser.add_argument("--output-dir", type=str, default="experiments/retrieval_results/bm25_top4", help="Directorio donde guardar los JSONs")
     parser.add_argument("--num-samples", type=int, default=500, help="Número de preguntas a procesar")
-    parser.add_argument("--k", type=int, default=5, help="Top-K sesiones a recuperar")
+    parser.add_argument("--k", type=int, default=4, help="Top-K sesiones a recuperar")
     parser.add_argument("--dataset-type", type=str, default="short", choices=["oracle", "short"])
     parser.add_argument("--dataset-set", type=str, default="longmemeval")
     
