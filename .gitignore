@@ -14,7 +14,7 @@ __pycache__/
 venv/
 env/
 ENV/
-
+*.json/
 # --- Models & Large Files (CRÍTICO) ---
 # Ignorar cualquier modelo descargado en la carpeta models
 models/*
