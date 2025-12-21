@@ -9,6 +9,9 @@ def main():
     parser.add_argument("--k", type=int, required=True, help="Valor de K para retrieval y evaluación")
     parser.add_argument("--experiment-name", type=str, required=True, help="Nombre del experimento (se usará para la carpeta de salida)")
     parser.add_argument("--dataset", type=str, default="longmemeval", help="Dataset a utilizar")
+    parser.add_argument("--granularity", type=str, default="session", choices=["session", "message"], help="Granularidad: session o message")
+    parser.add_argument("--use-reranker", action="store_true", help="Activar re-ranking")
+    parser.add_argument("--top-n", type=int, default=100, help="Candidatos para re-ranking")
     
     args = parser.parse_args()
     
@@ -30,9 +33,14 @@ def main():
         sys.executable, "main.py",
         "--output-dir", questions_dir,
         "--k", str(args.k),
+        "--granularity", args.granularity,
+        "--top-n", str(args.top_n),
         # Si tu main.py usa otro flag para el dataset, cámbialo aquí
         # "--dataset", args.dataset 
     ]
+    
+    if args.use_reranker:
+        cmd.append("--use-reranker")
     
     print(f"Ejecutando: {' '.join(cmd)}")
     try:
