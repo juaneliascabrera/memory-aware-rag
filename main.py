@@ -116,6 +116,11 @@ def main():
             # ranked_candidates es una lista de tuplas (indice_original, score_ce)
             ranked_candidates = sorted(zip(top_indices, ce_scores), key=lambda x: x[1], reverse=True)
         else:
+            # Si no se usa re-ranker, no hay candidatos intermedios
+            top_indices = [] 
+            ranked_candidates = []
+            bm25_candidates = None
+
             # Lógica original sin re-ranking
             search_limit = len(scores) if args.granularity == 'message' else args.k
             top_indices = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[:search_limit]
@@ -141,9 +146,20 @@ def main():
             "question_type": instance.question_type,
             "retrieved_sessions": retrieved_sessions,
             "retrieved_scores": retrieved_scores,
-            "method": "bm25",
-            "k": args.k
+            "parameters": {
+                "k": args.k,
+                "granularity": args.granularity,
+                "use_reranker": args.use_reranker,
+                "reranker_model": args.reranker_model if args.use_reranker else None,
+                "top_n": args.top_n if args.use_reranker else None,
+            },
+            "method": "bm25+rerank" if args.use_reranker else "bm25",
         }
+
+        if args.use_reranker:
+            # Guardamos los candidatos que BM25 le pasó al re-ranker para análisis
+            result["bm25_candidates"] = [corpus_ids[i] for i in top_indices]
+            result["bm25_scores"] = [float(scores[i]) for i in top_indices]
         
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(result, f, indent=2)
