@@ -60,6 +60,7 @@ def main():
         corpus_ids = []
         tokenized_corpus = []
         corpus_texts = []
+        session_id_to_text = {}
         
         for session in candidate_sessions:
             chunks = []
@@ -83,6 +84,9 @@ def main():
                         elif isinstance(msgs[0], str):
                             chunks = msgs
             
+            # Guardamos el texto completo de la sesión para referencia futura (Prompt)
+            session_id_to_text[str(s_id)] = " ".join(chunks)
+
             for chunk in (chunks if args.granularity == 'message' else [" ".join(chunks)]):
                 tokenized_corpus.append(simple_tokenize(chunk))
                 corpus_ids.append(str(s_id))
@@ -146,6 +150,7 @@ def main():
             "question_type": instance.question_type,
             "retrieved_sessions": retrieved_sessions,
             "retrieved_scores": retrieved_scores,
+            "retrieved_session_texts": [session_id_to_text.get(sid, "") for sid in retrieved_sessions],
             "parameters": {
                 "k": args.k,
                 "granularity": args.granularity,

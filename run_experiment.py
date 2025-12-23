@@ -12,6 +12,7 @@ def main():
     parser.add_argument("--granularity", type=str, default="session", choices=["session", "message"], help="Granularidad: session o message")
     parser.add_argument("--use-reranker", action="store_true", help="Activar re-ranking")
     parser.add_argument("--top-n", type=int, default=100, help="Candidatos para re-ranking")
+    parser.add_argument("--num-samples", type=int, default=500, help="Número de preguntas a procesar")
     
     args = parser.parse_args()
     
@@ -35,6 +36,7 @@ def main():
         "--k", str(args.k),
         "--granularity", args.granularity,
         "--top-n", str(args.top_n),
+        "--num-samples", str(args.num_samples),
         # Si tu main.py usa otro flag para el dataset, cámbialo aquí
         # "--dataset", args.dataset 
     ]
