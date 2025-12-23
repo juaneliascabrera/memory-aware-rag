@@ -13,6 +13,7 @@ def main():
     parser.add_argument("--use-reranker", action="store_true", help="Activar re-ranking")
     parser.add_argument("--top-n", type=int, default=100, help="Candidatos para re-ranking")
     parser.add_argument("--num-samples", type=int, default=500, help="Número de preguntas a procesar")
+    parser.add_argument("--score-threshold", type=float, default=None, help="Threshold dinámico para main.py")
     
     args = parser.parse_args()
     
@@ -40,6 +41,9 @@ def main():
         # Si tu main.py usa otro flag para el dataset, cámbialo aquí
         # "--dataset", args.dataset 
     ]
+    
+    if args.score_threshold is not None:
+        cmd.extend(["--score-threshold", str(args.score_threshold)])
     
     if args.use_reranker:
         cmd.append("--use-reranker")

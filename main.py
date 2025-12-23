@@ -23,6 +23,7 @@ def main():
     parser.add_argument("--use-reranker", action="store_true", help="Activar re-ranking con Cross-Encoder")
     parser.add_argument("--reranker-model", type=str, default="cross-encoder/ms-marco-MiniLM-L-6-v2", help="Modelo de Cross-Encoder a usar")
     parser.add_argument("--top-n", type=int, default=100, help="Número de candidatos iniciales para re-rankear")
+    parser.add_argument("--score-threshold", type=float, default=None, help="Diferencia máxima de score permitida respecto al mejor resultado para seguir agregando sesiones.")
     
     args = parser.parse_args()
 
@@ -133,10 +134,19 @@ def main():
         retrieved_sessions = []
         retrieved_scores = []
         seen_sessions = set()
+        best_score = None
 
         for i, score in ranked_candidates:
             sess_id = corpus_ids[i]
             if sess_id not in seen_sessions:
+                # Lógica de Threshold Dinámico
+                if args.score_threshold is not None:
+                    if best_score is None:
+                        best_score = score
+                    elif (best_score - score) > args.score_threshold:
+                        # Si la diferencia con el mejor es muy grande, cortamos
+                        break
+
                 seen_sessions.add(sess_id)
                 retrieved_sessions.append(sess_id)
                 retrieved_scores.append(float(score))
