@@ -14,6 +14,9 @@ def main():
     parser.add_argument("--top-n", type=int, default=100, help="Candidatos para re-ranking")
     parser.add_argument("--num-samples", type=int, default=500, help="Número de preguntas a procesar")
     parser.add_argument("--score-threshold", type=float, default=None, help="Threshold dinámico para main.py")
+    parser.add_argument("--use-embeddings", action="store_true", help="Activar búsqueda híbrida con embeddings")
+    parser.add_argument("--embeddings-dir", type=str, default="data/embeddings", help="Directorio con corpus_embeddings.pt y corpus_mapping.json")
+    parser.add_argument("--embedding-model", type=str, default="sentence-transformers/all-MiniLM-L6-v2", help="Modelo para codificar la query")
     
     args = parser.parse_args()
     
@@ -47,6 +50,11 @@ def main():
     
     if args.use_reranker:
         cmd.append("--use-reranker")
+    
+    if args.use_embeddings:
+        cmd.append("--use-embeddings")
+        cmd.extend(["--embeddings-dir", args.embeddings_dir])
+        cmd.extend(["--embedding-model", args.embedding_model])
     
     print(f"Ejecutando: {' '.join(cmd)}")
     try:
