@@ -37,6 +37,7 @@ These were the first results, taking **k = 5**.
 | Single-session-user       | 100%     | 20.00%      | 64          |
 | Temporal reasoning        | 88.40%   | 37.80%      | 127         |
 | **GLOBAL RESULTS**        | 90.85%   | 33.28%      | 500         |
+
 Let's analyze these first results: The BM25 system is extraordinarily useful for the 'single-session-user/assistant' questions because those depends only on one session, and it's easy to find the most relevant session if it has a directly lexical relationship with the query. 
 Obviously, taking and arbitrary fixed $k = 5$, in these kind of questions the **Precision@5** will be 20%. 
 
@@ -55,6 +56,8 @@ Exactly the same system, k = 4.
 | Single-session-user       | 100%     | 25.00%      | 64          |
 | Temporal reasoning        | 86.33%   | 45.28%      | 127         |
 | **GLOBAL RESULTS**        | 88.94%   | 40.15%      | 500         |
+
+
 The most relevant, and expected, conclusion is the **Precision@4** improve. Of course, taking fewer sessions reduces the noise, trading off the **Recall@4** which had a 1.91% loss. 
 
 Something important I noticed here: The single-session-user/assistant questions got the exactly same value for **Recall@4 and 5**, meaning that the most relevant document is never, in these kind of questions, in the last place. I investigated about some metric to measure this and I found [MRR](https://en.wikipedia.org/wiki/Mean_reciprocal_rank). 
@@ -121,6 +124,8 @@ Hybrid Search (BM25 + Embeddings) + ReRanking (Top 50) + Threshold 6.0 and K = 4
 | Single-session-user       | 100%     | 95.70%      | 99.22% | 64          |
 | Temporal reasoning        | 86.36%   | 81.76%      | 91.25% | 127         |
 | **GLOBAL RESULTS**        | 90.92%   | 86.18%      | 93.89% | 500         |
+
+
 I was very proud at this point of all the process, and I decided, with this results, to start the implementation stage. 
 
 Thanks to all the websites referenced, documents, information, Y-Hat, and the life. 
